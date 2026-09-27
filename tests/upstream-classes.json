@@ -1,0 +1,6411 @@
+{
+ "abeautifulmess.com": {
+  "module": "abeautifulmess",
+  "class": "ABeautifulMess",
+  "overrides": [
+   "equipment"
+  ]
+ },
+ "aberlehome.com": {
+  "module": "aberlehome",
+  "class": "AberleHome",
+  "overrides": [
+   "author",
+   "category",
+   "cook_time",
+   "description",
+   "ingredients",
+   "instructions",
+   "nutrients",
+   "prep_time",
+   "ratings",
+   "ratings_count",
+   "title",
+   "total_time",
+   "yields"
+  ]
+ },
+ "claudia.abril.com.br": {
+  "module": "abril",
+  "class": "Abril",
+  "overrides": [
+   "_extract_time_element",
+   "cook_time",
+   "instructions",
+   "prep_time"
+  ]
+ },
+ "abuelascounter.com": {
+  "module": "abuelascounter",
+  "class": "AbuelasCounter",
+  "overrides": [
+   "ingredient_groups"
+  ]
+ },
+ "acouplecooks.com": {
+  "module": "acouplecooks",
+  "class": "ACoupleCooks",
+  "overrides": [
+   "ingredient_groups",
+   "ingredients"
+  ]
+ },
+ "acozykitchen.com": {
+  "module": "acozykitchen",
+  "class": "ACozyKitchen",
+  "overrides": [
+   "equipment"
+  ]
+ },
+ "addapinch.com": {
+  "module": "addapinch",
+  "class": "AddAPinch",
+  "overrides": [
+   "equipment"
+  ]
+ },
+ "adozensundays.com": {
+  "module": "adozensundays",
+  "class": "ADozenSundays",
+  "overrides": [
+   "equipment",
+   "ingredient_groups"
+  ]
+ },
+ "adrianasbestrecipes.com": {
+  "module": "adrianasbestrecipes",
+  "class": "AdrianasBestRecipes",
+  "overrides": [
+   "equipment",
+   "instructions"
+  ]
+ },
+ "afarmgirlsdabbles.com": {
+  "module": "afarmgirlsdabbles",
+  "class": "AFarmGirlsDabbles",
+  "overrides": [
+   "ingredients"
+  ]
+ },
+ "afghankitchenrecipes.com": {
+  "module": "afghankitchenrecipes",
+  "class": "AfghanKitchenRecipes",
+  "overrides": [
+   "author",
+   "ingredients",
+   "instructions",
+   "ratings",
+   "site_name",
+   "total_time",
+   "yields"
+  ]
+ },
+ "aflavorjournal.com": {
+  "module": "aflavorjournal",
+  "class": "AFlavorJournal",
+  "overrides": [
+   "equipment"
+  ]
+ },
+ "africanbites.com": {
+  "module": "africanbites",
+  "class": "AfricanBites",
+  "overrides": []
+ },
+ "afullliving.com": {
+  "module": "afullliving",
+  "class": "AFullLiving",
+  "overrides": []
+ },
+ "ahealthysliceoflife.com": {
+  "module": "ahealthysliceoflife",
+  "class": "AHealthySliceOfLife",
+  "overrides": [
+   "ingredients"
+  ]
+ },
+ "akispetretzikis.com": {
+  "module": "akispetretzikis",
+  "class": "AkisPetretzikis",
+  "overrides": []
+ },
+ "albert.cz": {
+  "module": "albertcz",
+  "class": "AlbertCz",
+  "overrides": [
+   "author",
+   "category",
+   "cuisine",
+   "description",
+   "image",
+   "ingredients",
+   "instructions",
+   "ratings",
+   "site_name",
+   "title",
+   "total_time",
+   "yields"
+  ]
+ },
+ "ah.nl": {
+  "module": "albertheijn",
+  "class": "AlbertHeijn",
+  "overrides": [
+   "instructions"
+  ]
+ },
+ "ah.be": {
+  "module": "albertheijn",
+  "class": "AlbertHeijn",
+  "overrides": [
+   "instructions"
+  ]
+ },
+ "aldi.com.au": {
+  "module": "aldi",
+  "class": "Aldi",
+  "overrides": [
+   "_get_value",
+   "author",
+   "category",
+   "cook_time",
+   "image",
+   "ingredients",
+   "instructions",
+   "prep_time",
+   "site_name",
+   "title",
+   "total_time",
+   "yields"
+  ]
+ },
+ "aldi-nord.de": {
+  "module": "aldinord",
+  "class": "AldiNord",
+  "overrides": [
+   "author",
+   "instructions",
+   "site_name"
+  ]
+ },
+ "aldi.es": {
+  "module": "aldinord",
+  "class": "AldiNord",
+  "overrides": [
+   "author",
+   "instructions",
+   "site_name"
+  ]
+ },
+ "aldi.fr": {
+  "module": "aldinord",
+  "class": "AldiNord",
+  "overrides": [
+   "author",
+   "instructions",
+   "site_name"
+  ]
+ },
+ "aldi.lu": {
+  "module": "aldinord",
+  "class": "AldiNord",
+  "overrides": [
+   "author",
+   "instructions",
+   "site_name"
+  ]
+ },
+ "aldi.nl": {
+  "module": "aldinord",
+  "class": "AldiNord",
+  "overrides": [
+   "author",
+   "instructions",
+   "site_name"
+  ]
+ },
+ "aldi.pl": {
+  "module": "aldinord",
+  "class": "AldiNord",
+  "overrides": [
+   "author",
+   "instructions",
+   "site_name"
+  ]
+ },
+ "aldi.pt": {
+  "module": "aldinord",
+  "class": "AldiNord",
+  "overrides": [
+   "author",
+   "instructions",
+   "site_name"
+  ]
+ },
+ "aldi-sued.de": {
+  "module": "aldisued",
+  "class": "AldiSued",
+  "overrides": [
+   "_parse_ingredients_legacy_aem_template",
+   "_parse_ingredients_vue_nuxt_template",
+   "ingredients",
+   "instructions"
+  ]
+ },
+ "aldi.hu": {
+  "module": "aldisued",
+  "class": "AldiSued",
+  "overrides": [
+   "_parse_ingredients_legacy_aem_template",
+   "_parse_ingredients_vue_nuxt_template",
+   "ingredients",
+   "instructions"
+  ]
+ },
+ "aldi.it": {
+  "module": "aldisued",
+  "class": "AldiSued",
+  "overrides": [
+   "_parse_ingredients_legacy_aem_template",
+   "_parse_ingredients_vue_nuxt_template",
+   "ingredients",
+   "instructions"
+  ]
+ },
+ "aldi-suisse.ch": {
+  "module": "aldisuisse",
+  "class": "AldiSuisse",
+  "overrides": [
+   "_parse_ingredients_legacy_aem_template",
+   "_parse_ingredients_vue_nuxt_template",
+   "ingredients",
+   "instructions"
+  ]
+ },
+ "alexandracooks.com": {
+  "module": "alexandracooks",
+  "class": "AlexandraCooks",
+  "overrides": []
+ },
+ "alisoneroman.com": {
+  "module": "alisoneroman",
+  "class": "AlisoneRoman",
+  "overrides": [
+   "_clean_ingredient",
+   "description",
+   "ingredient_groups",
+   "ingredients"
+  ]
+ },
+ "alittlebityummy.com": {
+  "module": "alittlebityummy",
+  "class": "ALittleBitYummy",
+  "overrides": [
+   "author",
+   "cook_time",
+   "ingredient_groups",
+   "ingredients",
+   "instructions",
+   "nutrients",
+   "prep_time",
+   "total_time"
+  ]
+ },
+ "allnutritious.com": {
+  "module": "allnutritious",
+  "class": "AllNutritious",
+  "overrides": [
+   "author",
+   "category",
+   "cuisine",
+   "description",
+   "image",
+   "ingredients",
+   "instructions",
+   "ratings",
+   "title",
+   "total_time",
+   "yields"
+  ]
+ },
+ "allrecipes.com": {
+  "module": "allrecipes",
+  "class": "AllRecipes",
+  "overrides": []
+ },
+ "allsavoryrecipes.com": {
+  "module": "allsavoryrecipes",
+  "class": "AllSavoryRecipes",
+  "overrides": [
+   "equipment",
+   "instructions"
+  ]
+ },
+ "allthehealthythings.com": {
+  "module": "allthehealthythings",
+  "class": "AllTheHealthyThings",
+  "overrides": [
+   "ingredient_groups"
+  ]
+ },
+ "alltommat.se": {
+  "module": "alltommat",
+  "class": "AlltOmMat",
+  "overrides": [
+   "ingredient_groups"
+  ]
+ },
+ "altonbrown.com": {
+  "module": "altonbrown",
+  "class": "AltonBrown",
+  "overrides": [
+   "equipment"
+  ]
+ },
+ "amazingoriental.com": {
+  "module": "amazingoriental",
+  "class": "AmazingOriental",
+  "overrides": [
+   "category",
+   "cuisine",
+   "ingredients",
+   "instructions",
+   "title",
+   "total_time",
+   "yields"
+  ]
+ },
+ "amazingribs.com": {
+  "module": "amazingribs",
+  "class": "AmazingRibs",
+  "overrides": [
+   "equipment"
+  ]
+ },
+ "amberskitchencooks.com": {
+  "module": "amberskitchencooks",
+  "class": "AmbersKitchencooks",
+  "overrides": []
+ },
+ "ambitiouskitchen.com": {
+  "module": "ambitiouskitchen",
+  "class": "AmbitiousKitchen",
+  "overrides": [
+   "ingredient_groups",
+   "ingredients"
+  ]
+ },
+ "ameessavorydish.com": {
+  "module": "ameessavorydish",
+  "class": "AmeesSavoryDish",
+  "overrides": [
+   "equipment",
+   "ingredient_groups",
+   "ingredients"
+  ]
+ },
+ "americastestkitchen.com": {
+  "module": "americastestkitchen",
+  "class": "AmericasTestKitchen",
+  "overrides": [
+   "ingredients"
+  ]
+ },
+ "andy-cooks.com": {
+  "module": "andycooks",
+  "class": "AndyCooks",
+  "overrides": [
+   "ingredient_groups"
+  ]
+ },
+ "anitalianinmykitchen.com": {
+  "module": "anitalianinmykitchen",
+  "class": "AnItalianInMyKitchen",
+  "overrides": []
+ },
+ "archanaskitchen.com": {
+  "module": "archanaskitchen",
+  "class": "ArchanasKitchen",
+  "overrides": [
+   "ingredient_groups",
+   "site_name"
+  ]
+ },
+ "argiro.gr": {
+  "module": "argiro",
+  "class": "Argiro",
+  "overrides": [
+   "_parse_time",
+   "author",
+   "category",
+   "cook_time",
+   "description",
+   "equipment",
+   "ingredient_groups",
+   "ingredients",
+   "instructions",
+   "prep_time",
+   "title",
+   "total_time",
+   "yields"
+  ]
+ },
+ "arla.se": {
+  "module": "arla",
+  "class": "Arla",
+  "overrides": [
+   "ingredient_groups",
+   "ingredients",
+   "instructions"
+  ]
+ },
+ "asweetpeachef.com": {
+  "module": "asweetpeachef",
+  "class": "ASweetPeaChef",
+  "overrides": [
+   "equipment"
+  ]
+ },
+ "atelierdeschefs.fr": {
+  "module": "atelierdeschefs",
+  "class": "AtelierDesChefs",
+  "overrides": [
+   "yields"
+  ]
+ },
+ "aubreyskitchen.com": {
+  "module": "aubreyskitchen",
+  "class": "AubreysKitchen",
+  "overrides": [
+   "equipment"
+  ]
+ },
+ "averiecooks.com": {
+  "module": "averiecooks",
+  "class": "AverieCooks",
+  "overrides": [
+   "equipment"
+  ]
+ },
+ "bake-eat-repeat.com": {
+  "module": "bakeeatrepeat",
+  "class": "BakeEatRepeat",
+  "overrides": [
+   "ingredient_groups"
+  ]
+ },
+ "bakeitwithlove.com": {
+  "module": "bakeitwithlove",
+  "class": "BakeItWithLove",
+  "overrides": [
+   "instructions"
+  ]
+ },
+ "bakels.com.au": {
+  "module": "bakels",
+  "class": "Bakels",
+  "overrides": [
+   "author",
+   "category",
+   "description",
+   "ingredient_groups",
+   "ingredients",
+   "instructions",
+   "title"
+  ]
+ },
+ "bakels.co.uk": {
+  "module": "bakels",
+  "class": "Bakels",
+  "overrides": [
+   "author",
+   "category",
+   "description",
+   "ingredient_groups",
+   "ingredients",
+   "instructions",
+   "title"
+  ]
+ },
+ "bakerbynature.com": {
+  "module": "bakerbynature",
+  "class": "BakerByNature",
+  "overrides": []
+ },
+ "bakewithzoha.com": {
+  "module": "bakewithzoha",
+  "class": "BakeWithZoha",
+  "overrides": [
+   "ingredient_groups"
+  ]
+ },
+ "bakingmischief.com": {
+  "module": "bakingmischief",
+  "class": "BakingMischief",
+  "overrides": []
+ },
+ "baking-sense.com": {
+  "module": "bakingsense",
+  "class": "BakingSense",
+  "overrides": [
+   "equipment"
+  ]
+ },
+ "barefeetinthekitchen.com": {
+  "module": "barefeetinthekitchen",
+  "class": "BarefeetInTheKitchen",
+  "overrides": []
+ },
+ "barefootcontessa.com": {
+  "module": "barefootcontessa",
+  "class": "BareFootContessa",
+  "overrides": [
+   "author",
+   "ingredient_groups",
+   "ingredients",
+   "instructions"
+  ]
+ },
+ "barefootinthepines.com": {
+  "module": "barefootinthepines",
+  "class": "BarefootInThePines",
+  "overrides": [
+   "ingredient_groups",
+   "nutrients"
+  ]
+ },
+ "bbc.com": {
+  "module": "bbcfood",
+  "class": "BBCFood",
+  "overrides": [
+   "ingredient_groups",
+   "title"
+  ]
+ },
+ "bbc.co.uk": {
+  "module": "bbcfood",
+  "class": "BBCFood",
+  "overrides": [
+   "ingredient_groups",
+   "title"
+  ]
+ },
+ "bbcgoodfood.com": {
+  "module": "bbcgoodfood",
+  "class": "BBCGoodFood",
+  "overrides": [
+   "ingredient_groups"
+  ]
+ },
+ "belleofthekitchen.com": {
+  "module": "belleofthekitchen",
+  "class": "BelleOfTheKitchen",
+  "overrides": []
+ },
+ "bellyfull.net": {
+  "module": "bellyfull",
+  "class": "BellyFull",
+  "overrides": []
+ },
+ "bestrecipes.com.au": {
+  "module": "bestrecipes",
+  "class": "BestRecipes",
+  "overrides": [
+   "language"
+  ]
+ },
+ "betterfoodguru.com": {
+  "module": "betterfoodguru",
+  "class": "BetterFoodGuru",
+  "overrides": []
+ },
+ "bettybossi.ch": {
+  "module": "bettybossi",
+  "class": "BettyBossi",
+  "overrides": [
+   "site_name"
+  ]
+ },
+ "bettycrocker.com": {
+  "module": "bettycrocker",
+  "class": "BettyCrocker",
+  "overrides": [
+   "ingredient_groups"
+  ]
+ },
+ "beyondfrosting.com": {
+  "module": "beyondfrosting",
+  "class": "BeyondFrosting",
+  "overrides": [
+   "equipment"
+  ]
+ },
+ "biancazapatka.com": {
+  "module": "biancazapatka",
+  "class": "BiancaZapatka",
+  "overrides": []
+ },
+ "biggerbolderbaking.com": {
+  "module": "biggerbolderbaking",
+  "class": "BiggerBolderBaking",
+  "overrides": []
+ },
+ "bigoven.com": {
+  "module": "bigoven",
+  "class": "BigOven",
+  "overrides": [
+   "ingredient_groups",
+   "instructions",
+   "yields"
+  ]
+ },
+ "billyparisi.com": {
+  "module": "billyparisi",
+  "class": "BillyParisi",
+  "overrides": [
+   "equipment"
+  ]
+ },
+ "bitsofcarey.com": {
+  "module": "bitsofcarey",
+  "class": "BitsOfCarey",
+  "overrides": [
+   "equipment"
+  ]
+ },
+ "blessthismessplease.com": {
+  "module": "blessthismessplease",
+  "class": "BlessThisMessPlease",
+  "overrides": []
+ },
+ "blogghetti.com": {
+  "module": "blogghetti",
+  "class": "Blogghetti",
+  "overrides": [
+   "equipment"
+  ]
+ },
+ "blogosferathermomix.es": {
+  "module": "blogosferathermomix",
+  "class": "BlogosferaThermomix",
+  "overrides": [
+   "_find_section_header",
+   "author",
+   "canonical_url",
+   "image",
+   "ingredients",
+   "instructions",
+   "language",
+   "site_name",
+   "title",
+   "yields"
+  ]
+ },
+ "thermomix-albacete.es": {
+  "module": "blogosferathermomix",
+  "class": "BlogosferaThermomix",
+  "overrides": [
+   "_find_section_header",
+   "author",
+   "canonical_url",
+   "image",
+   "ingredients",
+   "instructions",
+   "language",
+   "site_name",
+   "title",
+   "yields"
+  ]
+ },
+ "thermomix-alcala.es": {
+  "module": "blogosferathermomix",
+  "class": "BlogosferaThermomix",
+  "overrides": [
+   "_find_section_header",
+   "author",
+   "canonical_url",
+   "image",
+   "ingredients",
+   "instructions",
+   "language",
+   "site_name",
+   "title",
+   "yields"
+  ]
+ },
+ "thermomix-algeciras.es": {
+  "module": "blogosferathermomix",
+  "class": "BlogosferaThermomix",
+  "overrides": [
+   "_find_section_header",
+   "author",
+   "canonical_url",
+   "image",
+   "ingredients",
+   "instructions",
+   "language",
+   "site_name",
+   "title",
+   "yields"
+  ]
+ },
+ "thermomix-alicante.es": {
+  "module": "blogosferathermomix",
+  "class": "BlogosferaThermomix",
+  "overrides": [
+   "_find_section_header",
+   "author",
+   "canonical_url",
+   "image",
+   "ingredients",
+   "instructions",
+   "language",
+   "site_name",
+   "title",
+   "yields"
+  ]
+ },
+ "thermomix-almeria.es": {
+  "module": "blogosferathermomix",
+  "class": "BlogosferaThermomix",
+  "overrides": [
+   "_find_section_header",
+   "author",
+   "canonical_url",
+   "image",
+   "ingredients",
+   "instructions",
+   "language",
+   "site_name",
+   "title",
+   "yields"
+  ]
+ },
+ "thermomix-alzira.es": {
+  "module": "blogosferathermomix",
+  "class": "BlogosferaThermomix",
+  "overrides": [
+   "_find_section_header",
+   "author",
+   "canonical_url",
+   "image",
+   "ingredients",
+   "instructions",
+   "language",
+   "site_name",
+   "title",
+   "yields"
+  ]
+ },
+ "thermomix-badajoz.es": {
+  "module": "blogosferathermomix",
+  "class": "BlogosferaThermomix",
+  "overrides": [
+   "_find_section_header",
+   "author",
+   "canonical_url",
+   "image",
+   "ingredients",
+   "instructions",
+   "language",
+   "site_name",
+   "title",
+   "yields"
+  ]
+ },
+ "thermomix-barcelona-centro.es": {
+  "module": "blogosferathermomix",
+  "class": "BlogosferaThermomix",
+  "overrides": [
+   "_find_section_header",
+   "author",
+   "canonical_url",
+   "image",
+   "ingredients",
+   "instructions",
+   "language",
+   "site_name",
+   "title",
+   "yields"
+  ]
+ },
+ "thermomix-barcelona.es": {
+  "module": "blogosferathermomix",
+  "class": "BlogosferaThermomix",
+  "overrides": [
+   "_find_section_header",
+   "author",
+   "canonical_url",
+   "image",
+   "ingredients",
+   "instructions",
+   "language",
+   "site_name",
+   "title",
+   "yields"
+  ]
+ },
+ "thermomix-bilbao.es": {
+  "module": "blogosferathermomix",
+  "class": "BlogosferaThermomix",
+  "overrides": [
+   "_find_section_header",
+   "author",
+   "canonical_url",
+   "image",
+   "ingredients",
+   "instructions",
+   "language",
+   "site_name",
+   "title",
+   "yields"
+  ]
+ },
+ "thermomix-burgos.es": {
+  "module": "blogosferathermomix",
+  "class": "BlogosferaThermomix",
+  "overrides": [
+   "_find_section_header",
+   "author",
+   "canonical_url",
+   "image",
+   "ingredients",
+   "instructions",
+   "language",
+   "site_name",
+   "title",
+   "yields"
+  ]
+ },
+ "thermomix-caceres.es": {
+  "module": "blogosferathermomix",
+  "class": "BlogosferaThermomix",
+  "overrides": [
+   "_find_section_header",
+   "author",
+   "canonical_url",
+   "image",
+   "ingredients",
+   "instructions",
+   "language",
+   "site_name",
+   "title",
+   "yields"
+  ]
+ },
+ "thermomix-cadiz.es": {
+  "module": "blogosferathermomix",
+  "class": "BlogosferaThermomix",
+  "overrides": [
+   "_find_section_header",
+   "author",
+   "canonical_url",
+   "image",
+   "ingredients",
+   "instructions",
+   "language",
+   "site_name",
+   "title",
+   "yields"
+  ]
+ },
+ "thermomix-cartagena.es": {
+  "module": "blogosferathermomix",
+  "class": "BlogosferaThermomix",
+  "overrides": [
+   "_find_section_header",
+   "author",
+   "canonical_url",
+   "image",
+   "ingredients",
+   "instructions",
+   "language",
+   "site_name",
+   "title",
+   "yields"
+  ]
+ },
+ "thermomix-castellon.es": {
+  "module": "blogosferathermomix",
+  "class": "BlogosferaThermomix",
+  "overrides": [
+   "_find_section_header",
+   "author",
+   "canonical_url",
+   "image",
+   "ingredients",
+   "instructions",
+   "language",
+   "site_name",
+   "title",
+   "yields"
+  ]
+ },
+ "thermomix-ceuta.es": {
+  "module": "blogosferathermomix",
+  "class": "BlogosferaThermomix",
+  "overrides": [
+   "_find_section_header",
+   "author",
+   "canonical_url",
+   "image",
+   "ingredients",
+   "instructions",
+   "language",
+   "site_name",
+   "title",
+   "yields"
+  ]
+ },
+ "thermomix-ciudadreal.es": {
+  "module": "blogosferathermomix",
+  "class": "BlogosferaThermomix",
+  "overrides": [
+   "_find_section_header",
+   "author",
+   "canonical_url",
+   "image",
+   "ingredients",
+   "instructions",
+   "language",
+   "site_name",
+   "title",
+   "yields"
+  ]
+ },
+ "thermomix-cordoba.es": {
+  "module": "blogosferathermomix",
+  "class": "BlogosferaThermomix",
+  "overrides": [
+   "_find_section_header",
+   "author",
+   "canonical_url",
+   "image",
+   "ingredients",
+   "instructions",
+   "language",
+   "site_name",
+   "title",
+   "yields"
+  ]
+ },
+ "thermomix-coruna.es": {
+  "module": "blogosferathermomix",
+  "class": "BlogosferaThermomix",
+  "overrides": [
+   "_find_section_header",
+   "author",
+   "canonical_url",
+   "image",
+   "ingredients",
+   "instructions",
+   "language",
+   "site_name",
+   "title",
+   "yields"
+  ]
+ },
+ "thermomix-doshermanas.es": {
+  "module": "blogosferathermomix",
+  "class": "BlogosferaThermomix",
+  "overrides": [
+   "_find_section_header",
+   "author",
+   "canonical_url",
+   "image",
+   "ingredients",
+   "instructions",
+   "language",
+   "site_name",
+   "title",
+   "yields"
+  ]
+ },
+ "thermomix-elche.es": {
+  "module": "blogosferathermomix",
+  "class": "BlogosferaThermomix",
+  "overrides": [
+   "_find_section_header",
+   "author",
+   "canonical_url",
+   "image",
+   "ingredients",
+   "instructions",
+   "language",
+   "site_name",
+   "title",
+   "yields"
+  ]
+ },
+ "thermomix-esplugues.es": {
+  "module": "blogosferathermomix",
+  "class": "BlogosferaThermomix",
+  "overrides": [
+   "_find_section_header",
+   "author",
+   "canonical_url",
+   "image",
+   "ingredients",
+   "instructions",
+   "language",
+   "site_name",
+   "title",
+   "yields"
+  ]
+ },
+ "thermomix-fuenlabrada.es": {
+  "module": "blogosferathermomix",
+  "class": "BlogosferaThermomix",
+  "overrides": [
+   "_find_section_header",
+   "author",
+   "canonical_url",
+   "image",
+   "ingredients",
+   "instructions",
+   "language",
+   "site_name",
+   "title",
+   "yields"
+  ]
+ },
+ "thermomix-fuerteventura.es": {
+  "module": "blogosferathermomix",
+  "class": "BlogosferaThermomix",
+  "overrides": [
+   "_find_section_header",
+   "author",
+   "canonical_url",
+   "image",
+   "ingredients",
+   "instructions",
+   "language",
+   "site_name",
+   "title",
+   "yields"
+  ]
+ },
+ "thermomix-gijon.es": {
+  "module": "blogosferathermomix",
+  "class": "BlogosferaThermomix",
+  "overrides": [
+   "_find_section_header",
+   "author",
+   "canonical_url",
+   "image",
+   "ingredients",
+   "instructions",
+   "language",
+   "site_name",
+   "title",
+   "yields"
+  ]
+ },
+ "thermomix-girona.es": {
+  "module": "blogosferathermomix",
+  "class": "BlogosferaThermomix",
+  "overrides": [
+   "_find_section_header",
+   "author",
+   "canonical_url",
+   "image",
+   "ingredients",
+   "instructions",
+   "language",
+   "site_name",
+   "title",
+   "yields"
+  ]
+ },
+ "thermomix-granada.es": {
+  "module": "blogosferathermomix",
+  "class": "BlogosferaThermomix",
+  "overrides": [
+   "_find_section_header",
+   "author",
+   "canonical_url",
+   "image",
+   "ingredients",
+   "instructions",
+   "language",
+   "site_name",
+   "title",
+   "yields"
+  ]
+ },
+ "thermomix-huelva.es": {
+  "module": "blogosferathermomix",
+  "class": "BlogosferaThermomix",
+  "overrides": [
+   "_find_section_header",
+   "author",
+   "canonical_url",
+   "image",
+   "ingredients",
+   "instructions",
+   "language",
+   "site_name",
+   "title",
+   "yields"
+  ]
+ },
+ "thermomix-jaen.es": {
+  "module": "blogosferathermomix",
+  "class": "BlogosferaThermomix",
+  "overrides": [
+   "_find_section_header",
+   "author",
+   "canonical_url",
+   "image",
+   "ingredients",
+   "instructions",
+   "language",
+   "site_name",
+   "title",
+   "yields"
+  ]
+ },
+ "thermomix-jerez.es": {
+  "module": "blogosferathermomix",
+  "class": "BlogosferaThermomix",
+  "overrides": [
+   "_find_section_header",
+   "author",
+   "canonical_url",
+   "image",
+   "ingredients",
+   "instructions",
+   "language",
+   "site_name",
+   "title",
+   "yields"
+  ]
+ },
+ "thermomix-lanzarote.es": {
+  "module": "blogosferathermomix",
+  "class": "BlogosferaThermomix",
+  "overrides": [
+   "_find_section_header",
+   "author",
+   "canonical_url",
+   "image",
+   "ingredients",
+   "instructions",
+   "language",
+   "site_name",
+   "title",
+   "yields"
+  ]
+ },
+ "thermomix-laspalmas.es": {
+  "module": "blogosferathermomix",
+  "class": "BlogosferaThermomix",
+  "overrides": [
+   "_find_section_header",
+   "author",
+   "canonical_url",
+   "image",
+   "ingredients",
+   "instructions",
+   "language",
+   "site_name",
+   "title",
+   "yields"
+  ]
+ },
+ "thermomix-leon.es": {
+  "module": "blogosferathermomix",
+  "class": "BlogosferaThermomix",
+  "overrides": [
+   "_find_section_header",
+   "author",
+   "canonical_url",
+   "image",
+   "ingredients",
+   "instructions",
+   "language",
+   "site_name",
+   "title",
+   "yields"
+  ]
+ },
+ "thermomix-lleida.es": {
+  "module": "blogosferathermomix",
+  "class": "BlogosferaThermomix",
+  "overrides": [
+   "_find_section_header",
+   "author",
+   "canonical_url",
+   "image",
+   "ingredients",
+   "instructions",
+   "language",
+   "site_name",
+   "title",
+   "yields"
+  ]
+ },
+ "thermomix-madrid-centro.es": {
+  "module": "blogosferathermomix",
+  "class": "BlogosferaThermomix",
+  "overrides": [
+   "_find_section_header",
+   "author",
+   "canonical_url",
+   "image",
+   "ingredients",
+   "instructions",
+   "language",
+   "site_name",
+   "title",
+   "yields"
+  ]
+ },
+ "thermomix-madrid-mendezalvaro.es": {
+  "module": "blogosferathermomix",
+  "class": "BlogosferaThermomix",
+  "overrides": [
+   "_find_section_header",
+   "author",
+   "canonical_url",
+   "image",
+   "ingredients",
+   "instructions",
+   "language",
+   "site_name",
+   "title",
+   "yields"
+  ]
+ },
+ "thermomix-majadahonda.es": {
+  "module": "blogosferathermomix",
+  "class": "BlogosferaThermomix",
+  "overrides": [
+   "_find_section_header",
+   "author",
+   "canonical_url",
+   "image",
+   "ingredients",
+   "instructions",
+   "language",
+   "site_name",
+   "title",
+   "yields"
+  ]
+ },
+ "thermomix-malaga-centro.es": {
+  "module": "blogosferathermomix",
+  "class": "BlogosferaThermomix",
+  "overrides": [
+   "_find_section_header",
+   "author",
+   "canonical_url",
+   "image",
+   "ingredients",
+   "instructions",
+   "language",
+   "site_name",
+   "title",
+   "yields"
+  ]
+ },
+ "thermomix-malaga.es": {
+  "module": "blogosferathermomix",
+  "class": "BlogosferaThermomix",
+  "overrides": [
+   "_find_section_header",
+   "author",
+   "canonical_url",
+   "image",
+   "ingredients",
+   "instructions",
+   "language",
+   "site_name",
+   "title",
+   "yields"
+  ]
+ },
+ "thermomix-mallorca.es": {
+  "module": "blogosferathermomix",
+  "class": "BlogosferaThermomix",
+  "overrides": [
+   "_find_section_header",
+   "author",
+   "canonical_url",
+   "image",
+   "ingredients",
+   "instructions",
+   "language",
+   "site_name",
+   "title",
+   "yields"
+  ]
+ },
+ "thermomix-manresa.es": {
+  "module": "blogosferathermomix",
+  "class": "BlogosferaThermomix",
+  "overrides": [
+   "_find_section_header",
+   "author",
+   "canonical_url",
+   "image",
+   "ingredients",
+   "instructions",
+   "language",
+   "site_name",
+   "title",
+   "yields"
+  ]
+ },
+ "thermomix-marbella.es": {
+  "module": "blogosferathermomix",
+  "class": "BlogosferaThermomix",
+  "overrides": [
+   "_find_section_header",
+   "author",
+   "canonical_url",
+   "image",
+   "ingredients",
+   "instructions",
+   "language",
+   "site_name",
+   "title",
+   "yields"
+  ]
+ },
+ "thermomix-mataro.es": {
+  "module": "blogosferathermomix",
+  "class": "BlogosferaThermomix",
+  "overrides": [
+   "_find_section_header",
+   "author",
+   "canonical_url",
+   "image",
+   "ingredients",
+   "instructions",
+   "language",
+   "site_name",
+   "title",
+   "yields"
+  ]
+ },
+ "thermomix-mostoles.es": {
+  "module": "blogosferathermomix",
+  "class": "BlogosferaThermomix",
+  "overrides": [
+   "_find_section_header",
+   "author",
+   "canonical_url",
+   "image",
+   "ingredients",
+   "instructions",
+   "language",
+   "site_name",
+   "title",
+   "yields"
+  ]
+ },
+ "thermomix-murcia.es": {
+  "module": "blogosferathermomix",
+  "class": "BlogosferaThermomix",
+  "overrides": [
+   "_find_section_header",
+   "author",
+   "canonical_url",
+   "image",
+   "ingredients",
+   "instructions",
+   "language",
+   "site_name",
+   "title",
+   "yields"
+  ]
+ },
+ "thermomix-orense.es": {
+  "module": "blogosferathermomix",
+  "class": "BlogosferaThermomix",
+  "overrides": [
+   "_find_section_header",
+   "author",
+   "canonical_url",
+   "image",
+   "ingredients",
+   "instructions",
+   "language",
+   "site_name",
+   "title",
+   "yields"
+  ]
+ },
+ "thermomix-pamplona.es": {
+  "module": "blogosferathermomix",
+  "class": "BlogosferaThermomix",
+  "overrides": [
+   "_find_section_header",
+   "author",
+   "canonical_url",
+   "image",
+   "ingredients",
+   "instructions",
+   "language",
+   "site_name",
+   "title",
+   "yields"
+  ]
+ },
+ "thermomix-plasencia.es": {
+  "module": "blogosferathermomix",
+  "class": "BlogosferaThermomix",
+  "overrides": [
+   "_find_section_header",
+   "author",
+   "canonical_url",
+   "image",
+   "ingredients",
+   "instructions",
+   "language",
+   "site_name",
+   "title",
+   "yields"
+  ]
+ },
+ "thermomix-pontevedra.es": {
+  "module": "blogosferathermomix",
+  "class": "BlogosferaThermomix",
+  "overrides": [
+   "_find_section_header",
+   "author",
+   "canonical_url",
+   "image",
+   "ingredients",
+   "instructions",
+   "language",
+   "site_name",
+   "title",
+   "yields"
+  ]
+ },
+ "thermomix-sabadell.es": {
+  "module": "blogosferathermomix",
+  "class": "BlogosferaThermomix",
+  "overrides": [
+   "_find_section_header",
+   "author",
+   "canonical_url",
+   "image",
+   "ingredients",
+   "instructions",
+   "language",
+   "site_name",
+   "title",
+   "yields"
+  ]
+ },
+ "thermomix-salamanca.es": {
+  "module": "blogosferathermomix",
+  "class": "BlogosferaThermomix",
+  "overrides": [
+   "_find_section_header",
+   "author",
+   "canonical_url",
+   "image",
+   "ingredients",
+   "instructions",
+   "language",
+   "site_name",
+   "title",
+   "yields"
+  ]
+ },
+ "thermomix-sansebastian.es": {
+  "module": "blogosferathermomix",
+  "class": "BlogosferaThermomix",
+  "overrides": [
+   "_find_section_header",
+   "author",
+   "canonical_url",
+   "image",
+   "ingredients",
+   "instructions",
+   "language",
+   "site_name",
+   "title",
+   "yields"
+  ]
+ },
+ "thermomix-santander.es": {
+  "module": "blogosferathermomix",
+  "class": "BlogosferaThermomix",
+  "overrides": [
+   "_find_section_header",
+   "author",
+   "canonical_url",
+   "image",
+   "ingredients",
+   "instructions",
+   "language",
+   "site_name",
+   "title",
+   "yields"
+  ]
+ },
+ "thermomix-sevilla-aljarafe.es": {
+  "module": "blogosferathermomix",
+  "class": "BlogosferaThermomix",
+  "overrides": [
+   "_find_section_header",
+   "author",
+   "canonical_url",
+   "image",
+   "ingredients",
+   "instructions",
+   "language",
+   "site_name",
+   "title",
+   "yields"
+  ]
+ },
+ "thermomix-sevilla.es": {
+  "module": "blogosferathermomix",
+  "class": "BlogosferaThermomix",
+  "overrides": [
+   "_find_section_header",
+   "author",
+   "canonical_url",
+   "image",
+   "ingredients",
+   "instructions",
+   "language",
+   "site_name",
+   "title",
+   "yields"
+  ]
+ },
+ "thermomix-ssreyes.es": {
+  "module": "blogosferathermomix",
+  "class": "BlogosferaThermomix",
+  "overrides": [
+   "_find_section_header",
+   "author",
+   "canonical_url",
+   "image",
+   "ingredients",
+   "instructions",
+   "language",
+   "site_name",
+   "title",
+   "yields"
+  ]
+ },
+ "thermomix-talavera.es": {
+  "module": "blogosferathermomix",
+  "class": "BlogosferaThermomix",
+  "overrides": [
+   "_find_section_header",
+   "author",
+   "canonical_url",
+   "image",
+   "ingredients",
+   "instructions",
+   "language",
+   "site_name",
+   "title",
+   "yields"
+  ]
+ },
+ "thermomix-tarragona.es": {
+  "module": "blogosferathermomix",
+  "class": "BlogosferaThermomix",
+  "overrides": [
+   "_find_section_header",
+   "author",
+   "canonical_url",
+   "image",
+   "ingredients",
+   "instructions",
+   "language",
+   "site_name",
+   "title",
+   "yields"
+  ]
+ },
+ "thermomix-tenerife.es": {
+  "module": "blogosferathermomix",
+  "class": "BlogosferaThermomix",
+  "overrides": [
+   "_find_section_header",
+   "author",
+   "canonical_url",
+   "image",
+   "ingredients",
+   "instructions",
+   "language",
+   "site_name",
+   "title",
+   "yields"
+  ]
+ },
+ "thermomix-tenerifesur.es": {
+  "module": "blogosferathermomix",
+  "class": "BlogosferaThermomix",
+  "overrides": [
+   "_find_section_header",
+   "author",
+   "canonical_url",
+   "image",
+   "ingredients",
+   "instructions",
+   "language",
+   "site_name",
+   "title",
+   "yields"
+  ]
+ },
+ "thermomix-toledo.es": {
+  "module": "blogosferathermomix",
+  "class": "BlogosferaThermomix",
+  "overrides": [
+   "_find_section_header",
+   "author",
+   "canonical_url",
+   "image",
+   "ingredients",
+   "instructions",
+   "language",
+   "site_name",
+   "title",
+   "yields"
+  ]
+ },
+ "thermomix-valencia.es": {
+  "module": "blogosferathermomix",
+  "class": "BlogosferaThermomix",
+  "overrides": [
+   "_find_section_header",
+   "author",
+   "canonical_url",
+   "image",
+   "ingredients",
+   "instructions",
+   "language",
+   "site_name",
+   "title",
+   "yields"
+  ]
+ },
+ "thermomix-valladolid.es": {
+  "module": "blogosferathermomix",
+  "class": "BlogosferaThermomix",
+  "overrides": [
+   "_find_section_header",
+   "author",
+   "canonical_url",
+   "image",
+   "ingredients",
+   "instructions",
+   "language",
+   "site_name",
+   "title",
+   "yields"
+  ]
+ },
+ "thermomix-vic.es": {
+  "module": "blogosferathermomix",
+  "class": "BlogosferaThermomix",
+  "overrides": [
+   "_find_section_header",
+   "author",
+   "canonical_url",
+   "image",
+   "ingredients",
+   "instructions",
+   "language",
+   "site_name",
+   "title",
+   "yields"
+  ]
+ },
+ "thermomix-vigo.es": {
+  "module": "blogosferathermomix",
+  "class": "BlogosferaThermomix",
+  "overrides": [
+   "_find_section_header",
+   "author",
+   "canonical_url",
+   "image",
+   "ingredients",
+   "instructions",
+   "language",
+   "site_name",
+   "title",
+   "yields"
+  ]
+ },
+ "thermomix-vitoria.es": {
+  "module": "blogosferathermomix",
+  "class": "BlogosferaThermomix",
+  "overrides": [
+   "_find_section_header",
+   "author",
+   "canonical_url",
+   "image",
+   "ingredients",
+   "instructions",
+   "language",
+   "site_name",
+   "title",
+   "yields"
+  ]
+ },
+ "thermomix-zamora.es": {
+  "module": "blogosferathermomix",
+  "class": "BlogosferaThermomix",
+  "overrides": [
+   "_find_section_header",
+   "author",
+   "canonical_url",
+   "image",
+   "ingredients",
+   "instructions",
+   "language",
+   "site_name",
+   "title",
+   "yields"
+  ]
+ },
+ "thermomix-zaragoza.es": {
+  "module": "blogosferathermomix",
+  "class": "BlogosferaThermomix",
+  "overrides": [
+   "_find_section_header",
+   "author",
+   "canonical_url",
+   "image",
+   "ingredients",
+   "instructions",
+   "language",
+   "site_name",
+   "title",
+   "yields"
+  ]
+ },
+ "thermomixasturias.es": {
+  "module": "blogosferathermomix",
+  "class": "BlogosferaThermomix",
+  "overrides": [
+   "_find_section_header",
+   "author",
+   "canonical_url",
+   "image",
+   "ingredients",
+   "instructions",
+   "language",
+   "site_name",
+   "title",
+   "yields"
+  ]
+ },
+ "blueapron.com": {
+  "module": "blueapron",
+  "class": "BlueApron",
+  "overrides": []
+ },
+ "bluejeanchef.com": {
+  "module": "bluejeanchef",
+  "class": "BlueJeanChef",
+  "overrides": [
+   "ingredient_groups"
+  ]
+ },
+ "bodybuilding.com": {
+  "module": "bodybuilding",
+  "class": "Bodybuilding",
+  "overrides": [
+   "author",
+   "category",
+   "description",
+   "image",
+   "ingredients",
+   "instructions",
+   "title",
+   "total_time",
+   "yields"
+  ]
+ },
+ "bofrost.de": {
+  "module": "bofrost",
+  "class": "Bofrost",
+  "overrides": [
+   "nutrients"
+  ]
+ },
+ "bonappetit.com": {
+  "module": "bonappetit",
+  "class": "BonAppetit",
+  "overrides": [
+   "total_time"
+  ]
+ },
+ "bongeats.com": {
+  "module": "bongeats",
+  "class": "BongEats",
+  "overrides": [
+   "ingredient_groups",
+   "ingredients",
+   "instructions",
+   "site_name"
+  ]
+ },
+ "bowlofdelicious.com": {
+  "module": "bowlofdelicious",
+  "class": "BowlOfDelicious",
+  "overrides": [
+   "equipment"
+  ]
+ },
+ "breadtopia.com": {
+  "module": "breadtopia",
+  "class": "Breadtopia",
+  "overrides": []
+ },
+ "brewersfriend.com": {
+  "module": "brewersfriend",
+  "class": "BrewersFriend",
+  "overrides": [
+   "description"
+  ]
+ },
+ "briceletbaklava.ch": {
+  "module": "briceletbaklava",
+  "class": "BricelEtBaklava",
+  "overrides": [
+   "author",
+   "category",
+   "description",
+   "image",
+   "ingredients",
+   "instructions",
+   "site_name",
+   "title",
+   "yields"
+  ]
+ },
+ "brokenovenbaking.com": {
+  "module": "brokenovenbaking",
+  "class": "BrokenOvenBaking",
+  "overrides": [
+   "equipment"
+  ]
+ },
+ "budgetbytes.com": {
+  "module": "budgetbytes",
+  "class": "BudgetBytes",
+  "overrides": [
+   "equipment"
+  ]
+ },
+ "cafedelites.com": {
+  "module": "cafedelites",
+  "class": "CafeDelites",
+  "overrides": []
+ },
+ "ciaoflorentina.com": {
+  "module": "caioflorentina",
+  "class": "CaioFlorentina",
+  "overrides": []
+ },
+ "cakemehometonight.com": {
+  "module": "cakemehometonight",
+  "class": "CakeMeHomeTonight",
+  "overrides": [
+   "equipment"
+  ]
+ },
+ "cakewhiz.com": {
+  "module": "cakewhiz",
+  "class": "CakeWhiz",
+  "overrides": []
+ },
+ "cambreabakes.com": {
+  "module": "cambreabakes",
+  "class": "CambreaBakes",
+  "overrides": [
+   "equipment"
+  ]
+ },
+ "carlsbadcravings.com": {
+  "module": "carlsbadcravings",
+  "class": "CarlsBadCravings",
+  "overrides": [
+   "ingredient_groups"
+  ]
+ },
+ "carriesexperimentalkitchen.com": {
+  "module": "carriesexperimentalkitchen",
+  "class": "CarriesExperimentalKitchen",
+  "overrides": [
+   "equipment",
+   "ingredient_groups",
+   "ingredients"
+  ]
+ },
+ "castironketo.net": {
+  "module": "castironketo",
+  "class": "CastIronKeto",
+  "overrides": []
+ },
+ "castironskilletcooking.com": {
+  "module": "castironskilletcooking",
+  "class": "CastIronSkilletCooking",
+  "overrides": [
+   "equipment"
+  ]
+ },
+ "cdkitchen.com": {
+  "module": "cdkitchen",
+  "class": "CdKitchen",
+  "overrides": [
+   "ingredient_groups",
+   "ingredients"
+  ]
+ },
+ "celebratingsweets.com": {
+  "module": "celebratingsweets",
+  "class": "CelebratingSweets",
+  "overrides": []
+ },
+ "chefjackovens.com": {
+  "module": "chefjackovens",
+  "class": "ChefJackOvens",
+  "overrides": [
+   "instructions"
+  ]
+ },
+ "chefjeanpierre.com": {
+  "module": "chefjeanpierre",
+  "class": "ChefJeanPierre",
+  "overrides": [
+   "equipment"
+  ]
+ },
+ "chefkoch.de": {
+  "module": "chefkoch",
+  "class": "Chefkoch",
+  "overrides": [
+   "_CustomSchemaOrg",
+   "_schema_cls"
+  ]
+ },
+ "chefnini.com": {
+  "module": "chefnini",
+  "class": "Chefnini",
+  "overrides": [
+   "author",
+   "cuisine",
+   "description",
+   "ingredient_groups",
+   "ingredients",
+   "instructions",
+   "title",
+   "total_time",
+   "yields"
+  ]
+ },
+ "chefsavvy.com": {
+  "module": "chefsavvy",
+  "class": "ChefSavvy",
+  "overrides": []
+ },
+ "chewoutloud.com": {
+  "module": "chewoutloud",
+  "class": "ChewOutLoud",
+  "overrides": [
+   "equipment"
+  ]
+ },
+ "chocolatewithgrace.com": {
+  "module": "chocolatewithgrace",
+  "class": "ChocolateWithGrace",
+  "overrides": [
+   "site_name"
+  ]
+ },
+ "choosehomemade.org": {
+  "module": "choosehomemade",
+  "class": "ChooseHomemade",
+  "overrides": [
+   "_get_summary_value",
+   "author",
+   "category",
+   "cooking_method",
+   "ingredients",
+   "instructions",
+   "keywords",
+   "title",
+   "total_time",
+   "yields"
+  ]
+ },
+ "cleaneatingkitchen.com": {
+  "module": "cleaneatingkitchen",
+  "class": "CleanEatingKitchen",
+  "overrides": [
+   "ingredient_groups",
+   "ingredients"
+  ]
+ },
+ "closetcooking.com": {
+  "module": "closetcooking",
+  "class": "ClosetCooking",
+  "overrides": []
+ },
+ "cloudykitchen.com": {
+  "module": "cloudykitchen",
+  "class": "CloudyKitchen",
+  "overrides": []
+ },
+ "coleycooks.com": {
+  "module": "coleycooks",
+  "class": "ColeyCooks",
+  "overrides": []
+ },
+ "colleenchristensennutrition.com": {
+  "module": "colleenchristensennutrition",
+  "class": "ColleenChristensenNutrition",
+  "overrides": []
+ },
+ "comidinhasdochef.com": {
+  "module": "comidinhasdochef",
+  "class": "ComidinhasDoChef",
+  "overrides": [
+   "ingredient_groups",
+   "instructions"
+  ]
+ },
+ "cookedandloved.com": {
+  "module": "cookedandloved",
+  "class": "CookedAndLoved",
+  "overrides": []
+ },
+ "cookfastrecipes.com": {
+  "module": "cookfastrecipes",
+  "class": "CookFastRecipes",
+  "overrides": [
+   "ingredient_groups"
+  ]
+ },
+ "cookieandkate.com": {
+  "module": "cookieandkate",
+  "class": "CookieAndKate",
+  "overrides": []
+ },
+ "cookiesandcups.com": {
+  "module": "cookiesandcups",
+  "class": "CookiesAndCups",
+  "overrides": [
+   "author",
+   "equipment"
+  ]
+ },
+ "cookingcircle.com": {
+  "module": "cookingcircle",
+  "class": "CookingCircle",
+  "overrides": [
+   "author",
+   "ingredients",
+   "instructions"
+  ]
+ },
+ "cookingclassy.com": {
+  "module": "cookingclassy",
+  "class": "CookingClassy",
+  "overrides": []
+ },
+ "cookinglight.com": {
+  "module": "cookinglight",
+  "class": "CookingLight",
+  "overrides": [
+   "ingredients",
+   "instructions",
+   "ratings"
+  ]
+ },
+ "cookinglsl.com": {
+  "module": "cookinglsl",
+  "class": "CookingLSL",
+  "overrides": []
+ },
+ "cookingwithjanica.com": {
+  "module": "cookingwithjanica",
+  "class": "CookingWithJanica",
+  "overrides": []
+ },
+ "cookomix.com": {
+  "module": "cookomix",
+  "class": "Cookomix",
+  "overrides": [
+   "instructions"
+  ]
+ },
+ "cookpad.com": {
+  "module": "cookpad",
+  "class": "CookPad",
+  "overrides": [
+   "site_name"
+  ]
+ },
+ "cook-talk.com": {
+  "module": "cooktalk",
+  "class": "CookTalk",
+  "overrides": [
+   "author",
+   "category",
+   "ingredient_groups",
+   "site_name"
+  ]
+ },
+ "cookwell.com": {
+  "module": "cookwell",
+  "class": "CookWell",
+  "overrides": [
+   "nutrients"
+  ]
+ },
+ "cookwithdana.com": {
+  "module": "cookwithdana",
+  "class": "CookWithDana",
+  "overrides": []
+ },
+ "copykat.com": {
+  "module": "copykat",
+  "class": "CopyKat",
+  "overrides": []
+ },
+ "corriecooks.com": {
+  "module": "corriecooks",
+  "class": "CorrieCooks",
+  "overrides": [
+   "_parse_ingredient",
+   "ingredient_groups",
+   "ingredients"
+  ]
+ },
+ "costco.com": {
+  "module": "costco",
+  "class": "Costco",
+  "overrides": [
+   "author",
+   "image",
+   "ingredients",
+   "instructions",
+   "site_name",
+   "title"
+  ]
+ },
+ "countryliving.com": {
+  "module": "countryliving",
+  "class": "CountryLiving",
+  "overrides": [
+   "author",
+   "ingredient_groups",
+   "keywords"
+  ]
+ },
+ "crazyforcrust.com": {
+  "module": "crazyforcrust",
+  "class": "CrazyForCrust",
+  "overrides": []
+ },
+ "creativecanning.com": {
+  "module": "creativecanning",
+  "class": "CreativeCanning",
+  "overrides": [
+   "equipment"
+  ]
+ },
+ "cucchiaio.it": {
+  "module": "cucchiaio",
+  "class": "Cucchiaio",
+  "overrides": []
+ },
+ "cuisineaz.com": {
+  "module": "cuisineaz",
+  "class": "CuisineAZ",
+  "overrides": [
+   "ingredients"
+  ]
+ },
+ "cuisinez-pour-bebe.fr": {
+  "module": "cuisinezpourbebe",
+  "class": "CuisinezPourBebe",
+  "overrides": [
+   "description",
+   "instructions"
+  ]
+ },
+ "culinaryhill.com": {
+  "module": "culinaryhill",
+  "class": "CulinaryHill",
+  "overrides": [
+   "equipment",
+   "ingredients"
+  ]
+ },
+ "culy.nl": {
+  "module": "culy",
+  "class": "Culy",
+  "overrides": [
+   "ingredient_groups",
+   "instructions"
+  ]
+ },
+ "cybercook.com.br": {
+  "module": "cybercook",
+  "class": "Cybercook",
+  "overrides": [
+   "site_name"
+  ]
+ },
+ "dagelijksekost.vrt.be": {
+  "module": "dagelijksekost",
+  "class": "DagelijkseKost",
+  "overrides": [
+   "canonical_url",
+   "instructions"
+  ]
+ },
+ "damndelicious.net": {
+  "module": "damndelicious",
+  "class": "DamnDelicious",
+  "overrides": []
+ },
+ "daringgourmet.com": {
+  "module": "daringgourmet",
+  "class": "DaringGourmet",
+  "overrides": [
+   "equipment"
+  ]
+ },
+ "dashfordinner.com": {
+  "module": "dashfordinner",
+  "class": "DashForDinner",
+  "overrides": [
+   "equipment"
+  ]
+ },
+ "davidlebovitz.com": {
+  "module": "davidlebovitz",
+  "class": "DavidLebovitz",
+  "overrides": [
+   "total_time"
+  ]
+ },
+ "deliciouslyella.com": {
+  "module": "deliciouslyella",
+  "class": "DeliciouslyElla",
+  "overrides": []
+ },
+ "deliciouslysprinkled.com": {
+  "module": "deliciouslysprinkled",
+  "class": "DeliciouslySprinkled",
+  "overrides": [
+   "equipment"
+  ]
+ },
+ "delish.com": {
+  "module": "delish",
+  "class": "Delish",
+  "overrides": [
+   "ingredient_groups"
+  ]
+ },
+ "delishkitchen.tv": {
+  "module": "delishkitchen",
+  "class": "DelishKitchen",
+  "overrides": [
+   "ingredient_groups"
+  ]
+ },
+ "delscookingtwist.com": {
+  "module": "delscookingtwist",
+  "class": "DelsCookingTwist",
+  "overrides": []
+ },
+ "dinneratthezoo.com": {
+  "module": "dinneratthezoo",
+  "class": "DinnerAtTheZoo",
+  "overrides": []
+ },
+ "dinnerthendessert.com": {
+  "module": "dinnerthendessert",
+  "class": "DinnerThenDessert",
+  "overrides": []
+ },
+ "directoalpaladar.com": {
+  "module": "directoalpaladar",
+  "class": "DirectoAlPaladar",
+  "overrides": [
+   "site_name"
+  ]
+ },
+ "dish.co.nz": {
+  "module": "dishnz",
+  "class": "Dishnz",
+  "overrides": [
+   "author",
+   "category",
+   "cuisine",
+   "description",
+   "image",
+   "ingredient_groups",
+   "ingredients",
+   "instructions",
+   "ratings",
+   "title",
+   "total_time",
+   "yields"
+  ]
+ },
+ "dobruchut.aktuality.sk": {
+  "module": "dobruchutaktualitysk",
+  "class": "DobruChutAktualitySK",
+  "overrides": [
+   "ingredient_groups",
+   "instructions",
+   "keywords"
+  ]
+ },
+ "domesticate-me.com": {
+  "module": "domesticateme",
+  "class": "DomesticateMe",
+  "overrides": [
+   "author"
+  ]
+ },
+ "donalskehan.com": {
+  "module": "donalskehan",
+  "class": "DonalSkehan",
+  "overrides": [
+   "author",
+   "category",
+   "description",
+   "equipment",
+   "image",
+   "ingredient_groups",
+   "ingredients",
+   "instructions",
+   "keywords",
+   "site_name",
+   "title",
+   "total_time",
+   "yields"
+  ]
+ },
+ "donnahay.com.au": {
+  "module": "donnahay",
+  "class": "DonnaHay",
+  "overrides": [
+   "author",
+   "image",
+   "ingredient_groups",
+   "ingredients",
+   "instructions",
+   "keywords",
+   "site_name",
+   "title",
+   "total_time",
+   "yields"
+  ]
+ },
+ "downshiftology.com": {
+  "module": "downshiftology",
+  "class": "Downshiftology",
+  "overrides": [
+   "equipment"
+  ]
+ },
+ "dr.dk": {
+  "module": "dr",
+  "class": "Dr",
+  "overrides": [
+   "author",
+   "ingredients",
+   "instructions",
+   "title"
+  ]
+ },
+ "drinkoteket.se": {
+  "module": "drinkoteket",
+  "class": "Drinkoteket",
+  "overrides": [
+   "equipment",
+   "ingredients",
+   "yields"
+  ]
+ },
+ "drizzleanddip.com": {
+  "module": "drizzleanddip",
+  "class": "DrizzleAndDip",
+  "overrides": [
+   "ingredients",
+   "instructions"
+  ]
+ },
+ "eatingbirdfood.com": {
+  "module": "eatingbirdfood",
+  "class": "EatingBirdFood",
+  "overrides": []
+ },
+ "eatingeuropean.com": {
+  "module": "eatingeuropean",
+  "class": "EatingEuropean",
+  "overrides": []
+ },
+ "eatingonadime.com": {
+  "module": "eatingonadime",
+  "class": "EatingOnADime",
+  "overrides": [
+   "equipment"
+  ]
+ },
+ "eatingwell.com": {
+  "module": "eatingwell",
+  "class": "EatingWell",
+  "overrides": []
+ },
+ "eatliverun.com": {
+  "module": "eatliverun",
+  "class": "EatLiveRun",
+  "overrides": [
+   "site_name"
+  ]
+ },
+ "eatsmarter.com": {
+  "module": "eatsmarter",
+  "class": "Eatsmarter",
+  "overrides": []
+ },
+ "eatsmarter.de": {
+  "module": "eatsmarter",
+  "class": "Eatsmarter",
+  "overrides": []
+ },
+ "eatthismuch.com": {
+  "module": "eatthismuch",
+  "class": "EatThisMuch",
+  "overrides": [
+   "author",
+   "site_name"
+  ]
+ },
+ "eattolerant.de": {
+  "module": "eattolerant",
+  "class": "EatTolerant",
+  "overrides": []
+ },
+ "eatwell101.com": {
+  "module": "eatwell101",
+  "class": "EatWell101",
+  "overrides": [
+   "category",
+   "description",
+   "ingredients",
+   "instructions"
+  ]
+ },
+ "eatwhattonight.com": {
+  "module": "eatwhattonight",
+  "class": "EatWhatTonight",
+  "overrides": []
+ },
+ "edeka.de": {
+  "module": "edeka",
+  "class": "EDEKA",
+  "overrides": [
+   "ingredients",
+   "instructions"
+  ]
+ },
+ "editions-larousse.fr": {
+  "module": "editionslarousse",
+  "class": "EditionsLarousse",
+  "overrides": [
+   "author",
+   "equipment",
+   "ingredient_groups",
+   "ingredients",
+   "instructions"
+  ]
+ },
+ "eggs.ca": {
+  "module": "eggsca",
+  "class": "EggsCa",
+  "overrides": [
+   "author",
+   "ingredient_groups",
+   "ingredients"
+  ]
+ },
+ "elavegan.com": {
+  "module": "elavegan",
+  "class": "ElaVegan",
+  "overrides": [
+   "equipment"
+  ]
+ },
+ "emilybites.com": {
+  "module": "emilybites",
+  "class": "EmilyBites",
+  "overrides": []
+ },
+ "emmikochteinfach.de": {
+  "module": "emmikochteinfach",
+  "class": "EmmiKochtEinfach",
+  "overrides": [
+   "equipment"
+  ]
+ },
+ "empirecipes.com": {
+  "module": "empirecipes",
+  "class": "Empirecipes",
+  "overrides": [
+   "equipment",
+   "instructions"
+  ]
+ },
+ "epicurious.com": {
+  "module": "epicurious",
+  "class": "Epicurious",
+  "overrides": [
+   "author"
+  ]
+ },
+ "erinliveswhole.com": {
+  "module": "erinliveswhole",
+  "class": "ErinLivesWhole",
+  "overrides": [
+   "ingredient_groups"
+  ]
+ },
+ "erinscozykitchen.com": {
+  "module": "erinscozykitchen",
+  "class": "ErinsCozyKitchen",
+  "overrides": [
+   "ingredient_groups"
+  ]
+ },
+ "errenskitchen.com": {
+  "module": "errenskitchen",
+  "class": "ErrensKitchen",
+  "overrides": []
+ },
+ "essen-und-trinken.de": {
+  "module": "essenundtrinken",
+  "class": "EssenUndTrinken",
+  "overrides": [
+   "ingredient_groups",
+   "ingredients"
+  ]
+ },
+ "ethanchlebowski.com": {
+  "module": "ethanchlebowski",
+  "class": "EthanChlebowski",
+  "overrides": [
+   "cuisine",
+   "description",
+   "ratings"
+  ]
+ },
+ "everyday-delicious.com": {
+  "module": "everydaydelicious",
+  "class": "EverydayDelicious",
+  "overrides": []
+ },
+ "everydaypie.com": {
+  "module": "everydaypie",
+  "class": "EverydayPie",
+  "overrides": []
+ },
+ "evolvingtable.com": {
+  "module": "evolvingtable",
+  "class": "EvolvingTable",
+  "overrides": []
+ },
+ "familyfoodonthetable.com": {
+  "module": "familyfoodonthetable",
+  "class": "FamilyfoodOnTheTable",
+  "overrides": [
+   "ingredient_groups"
+  ]
+ },
+ "familyspice.com": {
+  "module": "familyspice",
+  "class": "FamilySpice",
+  "overrides": []
+ },
+ "fantabulosity.com": {
+  "module": "fantabulosity",
+  "class": "Fantabulosity",
+  "overrides": [
+   "equipment"
+  ]
+ },
+ "recipes.farmhousedelivery.com": {
+  "module": "farmhousedelivery",
+  "class": "FarmhouseDelivery",
+  "overrides": [
+   "image",
+   "ingredients",
+   "instructions",
+   "title",
+   "total_time"
+  ]
+ },
+ "farmhouseonboone.com": {
+  "module": "farmhouseonboone",
+  "class": "FarmhouseOnBoone",
+  "overrides": [
+   "equipment",
+   "ingredient_groups"
+  ]
+ },
+ "farmtojar.com": {
+  "module": "farmtojar",
+  "class": "FarmToJar",
+  "overrides": [
+   "author",
+   "equipment"
+  ]
+ },
+ "fattoincasadabenedetta.it": {
+  "module": "fattoincasadabenedetta",
+  "class": "FattoInCasaDaBenedetta",
+  "overrides": [
+   "equipment",
+   "instructions"
+  ]
+ },
+ "feastingathome.com": {
+  "module": "feastingathome",
+  "class": "FeastingAtHome",
+  "overrides": []
+ },
+ "feelgoodfoodie.net": {
+  "module": "feelgoodfoodie",
+  "class": "FeelGoodFoodie",
+  "overrides": [
+   "equipment"
+  ]
+ },
+ "felix.kitchen": {
+  "module": "felixkitchen",
+  "class": "FelixKitchen",
+  "overrides": [
+   "author",
+   "description",
+   "ingredients",
+   "instructions",
+   "title",
+   "total_time",
+   "yields"
+  ]
+ },
+ "festligare.se": {
+  "module": "festligare",
+  "class": "Festligare",
+  "overrides": [
+   "category",
+   "ingredient_groups",
+   "ingredients",
+   "instructions",
+   "keywords",
+   "ratings",
+   "ratings_count",
+   "yields"
+  ]
+ },
+ "15gram.be": {
+  "module": "fifteengram",
+  "class": "FifteenGram",
+  "overrides": [
+   "author",
+   "canonical_url"
+  ]
+ },
+ "fifteenspatulas.com": {
+  "module": "fifteenspatulas",
+  "class": "FifteenSpatulas",
+  "overrides": []
+ },
+ "figjar.com": {
+  "module": "figjar",
+  "class": "FigJar",
+  "overrides": []
+ },
+ "finedininglovers.com": {
+  "module": "finedininglovers",
+  "class": "FineDiningLovers",
+  "overrides": [
+   "site_name"
+  ]
+ },
+ "fithealthymacros.com": {
+  "module": "fithealthymacros",
+  "class": "FitHealthyMacros",
+  "overrides": [
+   "equipment"
+  ]
+ },
+ "fitmencook.com": {
+  "module": "fitmencook",
+  "class": "FitMenCook",
+  "overrides": [
+   "category",
+   "ingredients",
+   "instructions",
+   "nutrients",
+   "total_time",
+   "yields"
+  ]
+ },
+ "fitslowcookerqueen.com": {
+  "module": "fitslowcookerqueen",
+  "class": "FitSlowCookerQueen",
+  "overrides": []
+ },
+ "flavorsbylinbie.com": {
+  "module": "flavorsbylinbie",
+  "class": "FlavorsByLinbie",
+  "overrides": [
+   "_extract_time_from_paragraph",
+   "_extract_time_from_servings_section",
+   "_get_servings_time_paragraph",
+   "_normalize_time_phrase",
+   "_slice_field",
+   "author",
+   "category",
+   "cook_time",
+   "description",
+   "image",
+   "ingredients",
+   "instructions",
+   "prep_time",
+   "title",
+   "total_time",
+   "yields"
+  ]
+ },
+ "food.com": {
+  "module": "food",
+  "class": "Food",
+  "overrides": [
+   "site_name"
+  ]
+ },
+ "food52.com": {
+  "module": "food52",
+  "class": "Food52",
+  "overrides": []
+ },
+ "foodandwine.com": {
+  "module": "foodandwine",
+  "class": "FoodAndWine",
+  "overrides": [
+   "yields"
+  ]
+ },
+ "foodbymaria.com": {
+  "module": "foodbymaria",
+  "class": "FoodByMaria",
+  "overrides": []
+ },
+ "foodfidelity.com": {
+  "module": "foodfidelity",
+  "class": "FoodFidelity",
+  "overrides": [
+   "description"
+  ]
+ },
+ "foodnetwork.co.uk": {
+  "module": "foodnetwork",
+  "class": "FoodNetwork",
+  "overrides": [
+   "author",
+   "site_name"
+  ]
+ },
+ "foodnetwork.com": {
+  "module": "foodnetwork",
+  "class": "FoodNetwork",
+  "overrides": [
+   "author",
+   "site_name"
+  ]
+ },
+ "foodrepublic.com": {
+  "module": "foodrepublic",
+  "class": "FoodRepublic",
+  "overrides": [
+   "ingredient_groups",
+   "yields"
+  ]
+ },
+ "forksoverknives.com": {
+  "module": "forksoverknives",
+  "class": "ForksOverKnives",
+  "overrides": [
+   "author",
+   "yields"
+  ]
+ },
+ "forktospoon.com": {
+  "module": "forktospoon",
+  "class": "ForkToSpoon",
+  "overrides": [
+   "equipment"
+  ]
+ },
+ "40aprons.com": {
+  "module": "fortyaprons",
+  "class": "FortyAprons",
+  "overrides": [
+   "equipment",
+   "ingredient_groups"
+  ]
+ },
+ "franzoesischkochen.de": {
+  "module": "franzoesischkochen",
+  "class": "FranzoesischKochen",
+  "overrides": [
+   "author",
+   "instructions",
+   "yields"
+  ]
+ },
+ "fresh.iprima.cz": {
+  "module": "freshiprima",
+  "class": "FreshiPrima",
+  "overrides": [
+   "ingredient_groups",
+   "yields"
+  ]
+ },
+ "750g.com": {
+  "module": "g750g",
+  "class": "G750g",
+  "overrides": [
+   "site_name"
+  ]
+ },
+ "garlicandzest.com": {
+  "module": "garlicandzest",
+  "class": "GarlicAndZest",
+  "overrides": [
+   "equipment"
+  ]
+ },
+ "garnishandglaze.com": {
+  "module": "garnishandglaze",
+  "class": "GarnishAndGlaze",
+  "overrides": []
+ },
+ "gesund-aktiv.com": {
+  "module": "gesundaktiv",
+  "class": "GesundAktiv",
+  "overrides": [
+   "author",
+   "ingredients"
+  ]
+ },
+ "ricette.giallozafferano.it": {
+  "module": "giallozafferano",
+  "class": "GialloZafferano",
+  "overrides": [
+   "_fix_comma",
+   "nutrients"
+  ]
+ },
+ "gimmesomeoven.com": {
+  "module": "gimmesomeoven",
+  "class": "GimmeSomeOven",
+  "overrides": [
+   "equipment"
+  ]
+ },
+ "girlgonegourmet.com": {
+  "module": "girlgonegourmet",
+  "class": "GirlGoneGourmet",
+  "overrides": []
+ },
+ "girlversusdough.com": {
+  "module": "girlversusdough",
+  "class": "GirlVersusDough",
+  "overrides": []
+ },
+ "receitas.globo.com": {
+  "module": "globo",
+  "class": "Globo",
+  "overrides": []
+ },
+ "gloriousrecipes.com": {
+  "module": "gloriousrecipes",
+  "class": "GloriousRecipes",
+  "overrides": [
+   "ingredient_groups"
+  ]
+ },
+ "glutenfreeonashoestring.com": {
+  "module": "glutenfreeonashoestring",
+  "class": "GlutenFreeOnAShoeString",
+  "overrides": [
+   "equipment"
+  ]
+ },
+ "godt.no": {
+  "module": "godt",
+  "class": "Godt",
+  "overrides": []
+ },
+ "goldnplump.com": {
+  "module": "goldnplump",
+  "class": "GoldnPlump",
+  "overrides": [
+   "author",
+   "ingredient_groups",
+   "ingredients",
+   "is_group_heading",
+   "total_time"
+  ]
+ },
+ "gonnawantseconds.com": {
+  "module": "gonnawantseconds",
+  "class": "GonnaWantSeconds",
+  "overrides": []
+ },
+ "goodfooddiscoveries.com": {
+  "module": "goodfooddiscoveries",
+  "class": "GoodFoodDiscoveries",
+  "overrides": [
+   "description",
+   "ingredient_groups",
+   "ingredients"
+  ]
+ },
+ "goodhousekeeping.com": {
+  "module": "goodhousekeeping",
+  "class": "GoodHousekeeping",
+  "overrides": [
+   "_find_nutrient",
+   "ingredient_groups",
+   "instructions",
+   "keywords",
+   "nutrients"
+  ]
+ },
+ "goodstuff.recipes": {
+  "module": "goodstuffrecipes",
+  "class": "GoodStuffRecipes",
+  "overrides": [
+   "equipment"
+  ]
+ },
+ "gourmandize.com": {
+  "module": "gourmandize",
+  "class": "Gourmandize",
+  "overrides": [
+   "title",
+   "yields"
+  ]
+ },
+ "gourmettraveller.com.au": {
+  "module": "gourmettraveller",
+  "class": "GourmetTraveller",
+  "overrides": [
+   "category",
+   "ingredient_groups",
+   "ingredients"
+  ]
+ },
+ "grandbaby-cakes.com": {
+  "module": "grandbabycakes",
+  "class": "GrandbabyCakes",
+  "overrides": [
+   "equipment"
+  ]
+ },
+ "grandfrais.com": {
+  "module": "grandfrais",
+  "class": "GrandFrais",
+  "overrides": [
+   "_GrandFrais__normalize_ingredient",
+   "author",
+   "category",
+   "cook_time",
+   "cuisine",
+   "description",
+   "image",
+   "ingredients",
+   "instructions",
+   "nutrients",
+   "prep_time",
+   "ratings",
+   "total_time"
+  ]
+ },
+ "greatbritishchefs.com": {
+  "module": "greatbritishchefs",
+  "class": "GreatBritishChefs",
+  "overrides": [
+   "ingredient_groups",
+   "yields"
+  ]
+ },
+ "grimgrains.com": {
+  "module": "grimgrains",
+  "class": "GrimGrains",
+  "overrides": [
+   "author",
+   "image",
+   "ingredient_groups",
+   "ingredients",
+   "instructions",
+   "title",
+   "total_time",
+   "yields"
+  ]
+ },
+ "grouprecipes.com": {
+  "module": "grouprecipes",
+  "class": "GroupRecipes",
+  "overrides": [
+   "author",
+   "category",
+   "description",
+   "image",
+   "ingredients",
+   "instructions",
+   "site_name",
+   "title",
+   "total_time",
+   "yields"
+  ]
+ },
+ "halfbakedharvest.com": {
+  "module": "halfbakedharvest",
+  "class": "HalfBakedHarvest",
+  "overrides": [
+   "instructions"
+  ]
+ },
+ "handletheheat.com": {
+  "module": "handletheheat",
+  "class": "HandleTheHeat",
+  "overrides": []
+ },
+ "hassanchef.com": {
+  "module": "hassanchef",
+  "class": "HassanChef",
+  "overrides": [
+   "author",
+   "ingredient_groups"
+  ]
+ },
+ "headbangerskitchen.com": {
+  "module": "headbangerskitchen",
+  "class": "HeadbangersKitchen",
+  "overrides": [
+   "site_name"
+  ]
+ },
+ "healthywithachanceofsprinkles.com": {
+  "module": "healthywithachanceofsprinkles",
+  "class": "HealthyWithAChanceOfSprinkles",
+  "overrides": []
+ },
+ "heatherchristo.com": {
+  "module": "heatherchristo",
+  "class": "HeatherChristo",
+  "overrides": []
+ },
+ "heb.com": {
+  "module": "heb",
+  "class": "HEB",
+  "overrides": [
+   "image",
+   "ingredients",
+   "instructions",
+   "title",
+   "total_time",
+   "yields"
+  ]
+ },
+ "hellofresh.com": {
+  "module": "hellofresh",
+  "class": "HelloFresh",
+  "overrides": [
+   "cook_time",
+   "prep_time",
+   "total_time"
+  ]
+ },
+ "hellofresh.at": {
+  "module": "hellofresh",
+  "class": "HelloFresh",
+  "overrides": [
+   "cook_time",
+   "prep_time",
+   "total_time"
+  ]
+ },
+ "hellofresh.be": {
+  "module": "hellofresh",
+  "class": "HelloFresh",
+  "overrides": [
+   "cook_time",
+   "prep_time",
+   "total_time"
+  ]
+ },
+ "hellofresh.ca": {
+  "module": "hellofresh",
+  "class": "HelloFresh",
+  "overrides": [
+   "cook_time",
+   "prep_time",
+   "total_time"
+  ]
+ },
+ "hellofresh.ch": {
+  "module": "hellofresh",
+  "class": "HelloFresh",
+  "overrides": [
+   "cook_time",
+   "prep_time",
+   "total_time"
+  ]
+ },
+ "hellofresh.co.nz": {
+  "module": "hellofresh",
+  "class": "HelloFresh",
+  "overrides": [
+   "cook_time",
+   "prep_time",
+   "total_time"
+  ]
+ },
+ "hellofresh.co.uk": {
+  "module": "hellofresh",
+  "class": "HelloFresh",
+  "overrides": [
+   "cook_time",
+   "prep_time",
+   "total_time"
+  ]
+ },
+ "hellofresh.com.au": {
+  "module": "hellofresh",
+  "class": "HelloFresh",
+  "overrides": [
+   "cook_time",
+   "prep_time",
+   "total_time"
+  ]
+ },
+ "hellofresh.de": {
+  "module": "hellofresh",
+  "class": "HelloFresh",
+  "overrides": [
+   "cook_time",
+   "prep_time",
+   "total_time"
+  ]
+ },
+ "hellofresh.dk": {
+  "module": "hellofresh",
+  "class": "HelloFresh",
+  "overrides": [
+   "cook_time",
+   "prep_time",
+   "total_time"
+  ]
+ },
+ "hellofresh.es": {
+  "module": "hellofresh",
+  "class": "HelloFresh",
+  "overrides": [
+   "cook_time",
+   "prep_time",
+   "total_time"
+  ]
+ },
+ "hellofresh.fr": {
+  "module": "hellofresh",
+  "class": "HelloFresh",
+  "overrides": [
+   "cook_time",
+   "prep_time",
+   "total_time"
+  ]
+ },
+ "hellofresh.ie": {
+  "module": "hellofresh",
+  "class": "HelloFresh",
+  "overrides": [
+   "cook_time",
+   "prep_time",
+   "total_time"
+  ]
+ },
+ "hellofresh.it": {
+  "module": "hellofresh",
+  "class": "HelloFresh",
+  "overrides": [
+   "cook_time",
+   "prep_time",
+   "total_time"
+  ]
+ },
+ "hellofresh.lu": {
+  "module": "hellofresh",
+  "class": "HelloFresh",
+  "overrides": [
+   "cook_time",
+   "prep_time",
+   "total_time"
+  ]
+ },
+ "hellofresh.nl": {
+  "module": "hellofresh",
+  "class": "HelloFresh",
+  "overrides": [
+   "cook_time",
+   "prep_time",
+   "total_time"
+  ]
+ },
+ "hellofresh.no": {
+  "module": "hellofresh",
+  "class": "HelloFresh",
+  "overrides": [
+   "cook_time",
+   "prep_time",
+   "total_time"
+  ]
+ },
+ "hellofresh.se": {
+  "module": "hellofresh",
+  "class": "HelloFresh",
+  "overrides": [
+   "cook_time",
+   "prep_time",
+   "total_time"
+  ]
+ },
+ "hersheyland.com": {
+  "module": "hersheyland",
+  "class": "HersheyLand",
+  "overrides": [
+   "author",
+   "equipment",
+   "instructions",
+   "site_name"
+  ]
+ },
+ "hilahcooking.com": {
+  "module": "hilahcooking",
+  "class": "HilahCooking",
+  "overrides": [
+   "description",
+   "ingredient_groups"
+  ]
+ },
+ "hofer.at": {
+  "module": "hofer",
+  "class": "Hofer",
+  "overrides": [
+   "_parse_ingredients_legacy_aem_template",
+   "_parse_ingredients_vue_nuxt_template",
+   "ingredients",
+   "instructions"
+  ]
+ },
+ "hofer.si": {
+  "module": "hofer",
+  "class": "Hofer",
+  "overrides": [
+   "_parse_ingredients_legacy_aem_template",
+   "_parse_ingredients_vue_nuxt_template",
+   "ingredients",
+   "instructions"
+  ]
+ },
+ "hogarmania.com": {
+  "module": "hogarmania",
+  "class": "Hogarmania",
+  "overrides": [
+   "_get_duration",
+   "cook_time",
+   "instructions",
+   "prep_time",
+   "site_name",
+   "total_time"
+  ]
+ },
+ "homeandplate.com": {
+  "module": "homeandplate",
+  "class": "HomeAndPlate",
+  "overrides": [
+   "equipment"
+  ]
+ },
+ "homechef.com": {
+  "module": "homechef",
+  "class": "HomeChef",
+  "overrides": [
+   "instructions"
+  ]
+ },
+ "hostthetoast.com": {
+  "module": "hostthetoast",
+  "class": "Hostthetoast",
+  "overrides": []
+ },
+ "houseofnasheats.com": {
+  "module": "houseofnasheats",
+  "class": "HouseOfNashEats",
+  "overrides": []
+ },
+ "houseofyumm.com": {
+  "module": "houseofyumm",
+  "class": "HouseOfYumm",
+  "overrides": []
+ },
+ "howtocook.recipes": {
+  "module": "howtocook",
+  "class": "HowToCook",
+  "overrides": [
+   "equipment"
+  ]
+ },
+ "howtofeedaloon.com": {
+  "module": "howtofeedaloon",
+  "class": "HowToFeedALoon",
+  "overrides": [
+   "equipment",
+   "ingredients"
+  ]
+ },
+ "hungryhappens.net": {
+  "module": "hungryhappens",
+  "class": "HungryHappens",
+  "overrides": [
+   "equipment"
+  ]
+ },
+ "iamafoodblog.com": {
+  "module": "iamafoodblog",
+  "class": "IAmAFoodBlog",
+  "overrides": [
+   "equipment"
+  ]
+ },
+ "iambaker.net": {
+  "module": "iambaker",
+  "class": "IAmBaker",
+  "overrides": []
+ },
+ "ica.se": {
+  "module": "ica",
+  "class": "Ica",
+  "overrides": []
+ },
+ "receitas.ig.com.br": {
+  "module": "ig",
+  "class": "IG",
+  "overrides": [
+   "author",
+   "instructions",
+   "yields"
+  ]
+ },
+ "im-worthy.com": {
+  "module": "imworthy",
+  "class": "ImWorthy",
+  "overrides": []
+ },
+ "inbloombakery.com": {
+  "module": "inbloombakery",
+  "class": "InBloomBakery",
+  "overrides": [
+   "site_name"
+  ]
+ },
+ "indianhealthyrecipes.com": {
+  "module": "indianhealthyrecipes",
+  "class": "IndianHealthyRecipes",
+  "overrides": []
+ },
+ "ingoodflavor.com": {
+  "module": "ingoodflavor",
+  "class": "InGoodFlavor",
+  "overrides": [
+   "author",
+   "ingredient_groups"
+  ]
+ },
+ "innit.com": {
+  "module": "innit",
+  "class": "Innit",
+  "overrides": [
+   "site_name"
+  ]
+ },
+ "insanelygoodrecipes.com": {
+  "module": "insanelygoodrecipes",
+  "class": "InsanelyGoodRecipes",
+  "overrides": [
+   "ingredient_groups"
+  ]
+ },
+ "inspiralized.com": {
+  "module": "inspiralized",
+  "class": "Inspiralized",
+  "overrides": []
+ },
+ "inspiredtaste.net": {
+  "module": "inspiredtaste",
+  "class": "InspiredTaste",
+  "overrides": [
+   "ingredient_groups"
+  ]
+ },
+ "iowagirleats.com": {
+  "module": "iowagirleats",
+  "class": "IowaGirlEats",
+  "overrides": [
+   "author",
+   "ingredient_groups",
+   "instructions"
+  ]
+ },
+ "irishcentral.com": {
+  "module": "irishcentral",
+  "class": "IrishCentral",
+  "overrides": [
+   "author",
+   "description",
+   "ingredients",
+   "instructions",
+   "keywords",
+   "title",
+   "total_time",
+   "yields"
+  ]
+ },
+ "itdoesnttastelikechicken.com": {
+  "module": "itdoesnttastelikechicken",
+  "class": "ItDoesntTasteLikeChicken",
+  "overrides": [
+   "ingredients"
+  ]
+ },
+ "itsnotaboutnutrition.com": {
+  "module": "itsnotaboutnutrition",
+  "class": "ItsNotAboutNutrition",
+  "overrides": [
+   "instructions"
+  ]
+ },
+ "izzycooking.com": {
+  "module": "izzycooking",
+  "class": "IzzyCooking",
+  "overrides": []
+ },
+ "jamieoliver.com": {
+  "module": "jamieoliver",
+  "class": "JamieOliver",
+  "overrides": [
+   "ingredient_groups",
+   "ingredients",
+   "instructions"
+  ]
+ },
+ "jennycancook.com": {
+  "module": "jennycancook",
+  "class": "JennyCanCook",
+  "overrides": [
+   "ingredient_groups"
+  ]
+ },
+ "jimcooksfoodgood.com": {
+  "module": "jimcooksfoodgood",
+  "class": "JimCooksFoodGood",
+  "overrides": []
+ },
+ "jocooks.com": {
+  "module": "jocooks",
+  "class": "JoCooks",
+  "overrides": [
+   "equipment"
+  ]
+ },
+ "joshuaweissman.com": {
+  "module": "joshuaweissman",
+  "class": "JoshuaWeissman",
+  "overrides": [
+   "cook_time",
+   "description",
+   "ingredient_groups",
+   "ingredients",
+   "instructions",
+   "prep_time",
+   "total_time",
+   "yields"
+  ]
+ },
+ "cuisine.journaldesfemmes.fr": {
+  "module": "journaldesfemmes",
+  "class": "JournalDesFemmes",
+  "overrides": [
+   "ingredient_groups"
+  ]
+ },
+ "jow.fr": {
+  "module": "jow",
+  "class": "Jow",
+  "overrides": []
+ },
+ "joyfoodsunshine.com": {
+  "module": "joyfoodsunshine",
+  "class": "Joyfoodsunshine",
+  "overrides": [
+   "equipment",
+   "ingredients"
+  ]
+ },
+ "joyfullymad.com": {
+  "module": "joyfullymad",
+  "class": "JoyfullyMad",
+  "overrides": [
+   "equipment"
+  ]
+ },
+ "joythebaker.com": {
+  "module": "joythebaker",
+  "class": "JoyTheBaker",
+  "overrides": [
+   "cook_time",
+   "ingredient_groups",
+   "prep_time",
+   "total_time"
+  ]
+ },
+ "juliasalbum.com": {
+  "module": "juliasalbum",
+  "class": "JuliasAlbum",
+  "overrides": []
+ },
+ "juliegoodwin.com.au": {
+  "module": "juliegoodwin",
+  "class": "JulieGoodwin",
+  "overrides": [
+   "author",
+   "cook_time",
+   "extract_time",
+   "image",
+   "ingredients",
+   "instructions",
+   "prep_time",
+   "title",
+   "total_time",
+   "yields"
+  ]
+ },
+ "jumbo.com": {
+  "module": "jumbo",
+  "class": "Jumbo",
+  "overrides": []
+ },
+ "justalittlebitofbacon.com": {
+  "module": "justalittlebitofbacon",
+  "class": "JustALittleBitOfBacon",
+  "overrides": []
+ },
+ "justapinch.com": {
+  "module": "justapinch",
+  "class": "JustAPinch",
+  "overrides": [
+   "ingredient_groups",
+   "ingredients"
+  ]
+ },
+ "justataste.com": {
+  "module": "justataste",
+  "class": "JustATaste",
+  "overrides": []
+ },
+ "justbento.com": {
+  "module": "justbento",
+  "class": "JustBento",
+  "overrides": [
+   "image",
+   "ingredients",
+   "instructions",
+   "site_name",
+   "title",
+   "total_time",
+   "yields"
+  ]
+ },
+ "justinesnacks.com": {
+  "module": "justinesnacks",
+  "class": "JustineSnacks",
+  "overrides": []
+ },
+ "justonecookbook.com": {
+  "module": "justonecookbook",
+  "class": "JustOneCookbook",
+  "overrides": [
+   "ingredients"
+  ]
+ },
+ "kalcirecept.hu": {
+  "module": "kalcirecept",
+  "class": "KalciRecept",
+  "overrides": [
+   "_find_heading",
+   "image",
+   "ingredients",
+   "instructions",
+   "site_name",
+   "title"
+  ]
+ },
+ "kalejunkie.com": {
+  "module": "kalejunkie",
+  "class": "KaleJunkie",
+  "overrides": [
+   "instructions"
+  ]
+ },
+ "kellyscleankitchen.com": {
+  "module": "kellyscleankitchen",
+  "class": "KellysCleanKitchen",
+  "overrides": [
+   "cook_time",
+   "description",
+   "ingredients",
+   "instructions",
+   "prep_time",
+   "title",
+   "total_time",
+   "yields"
+  ]
+ },
+ "kennethtemple.com": {
+  "module": "kennethtemple",
+  "class": "KennethTemple",
+  "overrides": []
+ },
+ "kennymcgovern.com": {
+  "module": "kennymcgovern",
+  "class": "KennyMcGovern",
+  "overrides": [
+   "instructions"
+  ]
+ },
+ "keukenliefde.nl": {
+  "module": "keukenliefdenl",
+  "class": "KeukenLiefdeNL",
+  "overrides": [
+   "author",
+   "category",
+   "description",
+   "ingredients",
+   "instructions",
+   "normalize_instructions",
+   "process_ingredients",
+   "title",
+   "total_time",
+   "yields"
+  ]
+ },
+ "keytomylime.com": {
+  "module": "keytomylime",
+  "class": "KeyToMyLime",
+  "overrides": [
+   "ingredient_groups"
+  ]
+ },
+ "kfoods.com": {
+  "module": "kfoods",
+  "class": "KFoods",
+  "overrides": [
+   "ingredients",
+   "instructions",
+   "language"
+  ]
+ },
+ "kiddokitchen.se": {
+  "module": "kiddokitchen",
+  "class": "KiddoKitchen",
+  "overrides": [
+   "ingredient_groups"
+  ]
+ },
+ "kikkoman.eu": {
+  "module": "kikkoman",
+  "class": "Kikkoman",
+  "overrides": [
+   "_get_time",
+   "author",
+   "category",
+   "cook_time",
+   "ingredient_groups",
+   "ingredients",
+   "nutrients",
+   "prep_time"
+  ]
+ },
+ "kingarthurbaking.com": {
+  "module": "kingarthur",
+  "class": "KingArthur",
+  "overrides": [
+   "instructions"
+  ]
+ },
+ "kitchenaid.com.au": {
+  "module": "kitchenaidaustralia",
+  "class": "KitchenAidAustralia",
+  "overrides": [
+   "_get_summary_value",
+   "_parse_list",
+   "_parse_summary_item",
+   "ingredient_groups",
+   "ingredients",
+   "instructions",
+   "instructions_list",
+   "total_time",
+   "yields"
+  ]
+ },
+ "kitchendivas.com": {
+  "module": "kitchendivas",
+  "class": "KitchenDivas",
+  "overrides": [
+   "equipment"
+  ]
+ },
+ "kitchendreaming.com": {
+  "module": "kitchendreaming",
+  "class": "KitchenDreaming",
+  "overrides": [
+   "ingredient_groups"
+  ]
+ },
+ "kitchensanctuary.com": {
+  "module": "kitchensanctuary",
+  "class": "KitchenSanctuary",
+  "overrides": [
+   "ingredient_groups"
+  ]
+ },
+ "kitchenstories.com": {
+  "module": "kitchenstories",
+  "class": "KitchenStories",
+  "overrides": []
+ },
+ "kochbar.de": {
+  "module": "kochbar",
+  "class": "Kochbar",
+  "overrides": []
+ },
+ "kochbucher.com": {
+  "module": "kochbucher",
+  "class": "Kochbucher",
+  "overrides": [
+   "author",
+   "category",
+   "ingredients",
+   "instructions",
+   "site_name",
+   "title"
+  ]
+ },
+ "koket.se": {
+  "module": "koket",
+  "class": "Koket",
+  "overrides": []
+ },
+ "kookjij.nl": {
+  "module": "kookjij",
+  "class": "KookJij",
+  "overrides": [
+   "category",
+   "cuisine",
+   "equipment",
+   "ingredients"
+  ]
+ },
+ "kristineskitchenblog.com": {
+  "module": "kristineskitchenblog",
+  "class": "KristinesKitchenBlog",
+  "overrides": []
+ },
+ "krollskorner.com": {
+  "module": "krollskorner",
+  "class": "KrollsKorner",
+  "overrides": [
+   "author",
+   "equipment"
+  ]
+ },
+ "kuchnia-domowa.pl": {
+  "module": "kuchniadomowa",
+  "class": "KuchniaDomowa",
+  "overrides": [
+   "image",
+   "instructions",
+   "title"
+  ]
+ },
+ "kuchynalidla.sk": {
+  "module": "kuchynalidla",
+  "class": "KuchynaLidla",
+  "overrides": [
+   "category",
+   "ingredient_groups",
+   "ingredients",
+   "instructions_list",
+   "language",
+   "yields"
+  ]
+ },
+ "kwestiasmaku.com": {
+  "module": "kwestiasmaku",
+  "class": "KwestiaSmaku",
+  "overrides": [
+   "image",
+   "ingredients",
+   "instructions",
+   "total_time",
+   "yields"
+  ]
+ },
+ "lacucinaitaliana.it": {
+  "module": "lacucinaitaliana",
+  "class": "LaCucinaItaliana",
+  "overrides": [
+   "author"
+  ]
+ },
+ "lacucinaitaliana.com": {
+  "module": "lacucinaitaliana",
+  "class": "LaCucinaItaliana",
+  "overrides": [
+   "author"
+  ]
+ },
+ "lanascooking.com": {
+  "module": "lanascooking",
+  "class": "LanasCooking",
+  "overrides": []
+ },
+ "latelierderoxane.com": {
+  "module": "latelierderoxane",
+  "class": "LAtelierDeRoxane",
+  "overrides": [
+   "_get_bloc_temps_value_by_index",
+   "_get_text_from_bloc",
+   "cook_time",
+   "description",
+   "ingredient_groups",
+   "ingredients",
+   "instructions",
+   "prep_time",
+   "title",
+   "total_time",
+   "yields"
+  ]
+ },
+ "laurenslatest.com": {
+  "module": "laurenslatest",
+  "class": "LaurensLatest",
+  "overrides": []
+ },
+ "lazycatkitchen.com": {
+  "module": "lazycatkitchen",
+  "class": "LazyCatKitchen",
+  "overrides": [
+   "ingredient_groups"
+  ]
+ },
+ "lecker.de": {
+  "module": "lecker",
+  "class": "Lecker",
+  "overrides": [
+   "instructions"
+  ]
+ },
+ "leckerschmecker.me": {
+  "module": "leckerschmecker",
+  "class": "LeckerSchmecker",
+  "overrides": [
+   "_CustomSchemaOrg",
+   "_schema_cls",
+   "equipment"
+  ]
+ },
+ "lecremedelacrumb.com": {
+  "module": "lecremedelacrumb",
+  "class": "LeCremeDeLaCrumb",
+  "overrides": []
+ },
+ "leitesculinaria.com": {
+  "module": "leitesculinaria",
+  "class": "LeitesCulinaria",
+  "overrides": []
+ },
+ "lekkerensimpel.com": {
+  "module": "lekkerensimpel",
+  "class": "LekkerEnSimpel",
+  "overrides": [
+   "author",
+   "description",
+   "ingredients",
+   "instructions",
+   "title"
+  ]
+ },
+ "letscampsmore.com": {
+  "module": "letscampsmore",
+  "class": "LetsCampSmore",
+  "overrides": []
+ },
+ "leukerecepten.nl": {
+  "module": "leukerecepten",
+  "class": "Leukerecepten",
+  "overrides": []
+ },
+ "lidiasitaly.com": {
+  "module": "lidiasitaly",
+  "class": "LidiasItaly",
+  "overrides": [
+   "author",
+   "image",
+   "ingredients",
+   "instructions",
+   "title",
+   "yields"
+  ]
+ },
+ "lifestyleofafoodie.com": {
+  "module": "lifestyleofafoodie",
+  "class": "LifestyleOfAFoodie",
+  "overrides": [
+   "equipment",
+   "ingredient_groups"
+  ]
+ },
+ "littleferrarokitchen.com": {
+  "module": "littleferrarokitchen",
+  "class": "LittleFerraroKitchen",
+  "overrides": [
+   "equipment"
+  ]
+ },
+ "littlespicejar.com": {
+  "module": "littlespicejar",
+  "class": "LittleSpiceJar",
+  "overrides": []
+ },
+ "littlespoonfarm.com": {
+  "module": "littlespoonfarm",
+  "class": "LittleSpoonFarm",
+  "overrides": []
+ },
+ "littlesunnykitchen.com": {
+  "module": "littlesunnykitchen",
+  "class": "LittleSunnyKitchen",
+  "overrides": [
+   "equipment"
+  ]
+ },
+ "livelytable.com": {
+  "module": "livelytable",
+  "class": "LivelyTable",
+  "overrides": [
+   "ingredient_groups"
+  ]
+ },
+ "lmld.org": {
+  "module": "lmld",
+  "class": "Lmld",
+  "overrides": [
+   "equipment"
+  ]
+ },
+ "lolascocina.com": {
+  "module": "lolascocina",
+  "class": "LolasCocina",
+  "overrides": [
+   "equipment"
+  ]
+ },
+ "loveandlemons.com": {
+  "module": "loveandlemons",
+  "class": "LoveAndLemons",
+  "overrides": [
+   "ingredients"
+  ]
+ },
+ "lovefood.com": {
+  "module": "lovefood",
+  "class": "LoveFood",
+  "overrides": [
+   "_get_time_str",
+   "author",
+   "category",
+   "cook_time",
+   "cuisine",
+   "description",
+   "image",
+   "ingredient_groups",
+   "ingredients",
+   "instructions",
+   "prep_time",
+   "title",
+   "total_time",
+   "yields"
+  ]
+ },
+ "lovingitvegan.com": {
+  "module": "lovingitvegan",
+  "class": "Lovingitvegan",
+  "overrides": []
+ },
+ "maangchi.com": {
+  "module": "maangchi",
+  "class": "Maangchi",
+  "overrides": [
+   "ingredients",
+   "instructions"
+  ]
+ },
+ "madamecuisine.de": {
+  "module": "madamecuisine",
+  "class": "MadameCuisine",
+  "overrides": [
+   "author",
+   "category",
+   "cuisine",
+   "description",
+   "equipment",
+   "image",
+   "ingredients",
+   "instructions",
+   "title",
+   "total_time",
+   "yields"
+  ]
+ },
+ "madame.lefigaro.fr": {
+  "module": "madamelefigaro",
+  "class": "MadameLeFigaro",
+  "overrides": [
+   "_CustomSchemaOrg",
+   "_schema_cls"
+  ]
+ },
+ "madensverden.dk": {
+  "module": "madensverden",
+  "class": "MadensVerden",
+  "overrides": []
+ },
+ "madsvin.com": {
+  "module": "madsvin",
+  "class": "Madsvin",
+  "overrides": []
+ },
+ "magimix.com": {
+  "module": "magimix",
+  "class": "Magimix",
+  "overrides": [
+   "equipment",
+   "instructions"
+  ]
+ },
+ "makeitdairyfree.com": {
+  "module": "makeitdairyfree",
+  "class": "MakeItDairyFree",
+  "overrides": [
+   "equipment"
+  ]
+ },
+ "marieclaire.fr": {
+  "module": "marieclaire",
+  "class": "MarieClaire",
+  "overrides": [
+   "ingredient_groups",
+   "ingredients"
+  ]
+ },
+ "marmiton.org": {
+  "module": "marmiton",
+  "class": "Marmiton",
+  "overrides": []
+ },
+ "marthastewart.com": {
+  "module": "marthastewart",
+  "class": "MarthaStewart",
+  "overrides": []
+ },
+ "matprat.no": {
+  "module": "matprat",
+  "class": "Matprat",
+  "overrides": [
+   "ingredient_groups",
+   "ingredients",
+   "nutrients",
+   "site_name"
+  ]
+ },
+ "mccormick.com": {
+  "module": "mccormick",
+  "class": "McCormick",
+  "overrides": [
+   "ingredient_groups",
+   "instructions"
+  ]
+ },
+ "mealprepmanual.com": {
+  "module": "mealprepmanual",
+  "class": "MealPrepManual",
+  "overrides": [
+   "equipment"
+  ]
+ },
+ "meatchurch.com": {
+  "module": "meatchurch",
+  "class": "MeatChurch",
+  "overrides": [
+   "author",
+   "ingredients",
+   "instructions",
+   "site_name",
+   "title",
+   "total_time",
+   "yields"
+  ]
+ },
+ "meganvskitchen.com": {
+  "module": "meganvskitchen",
+  "class": "MeganVsKitchen",
+  "overrides": []
+ },
+ "meljoulwan.com": {
+  "module": "meljoulwan",
+  "class": "Meljoulwan",
+  "overrides": [
+   "_extract_info",
+   "author",
+   "category",
+   "cook_time",
+   "ingredient_groups",
+   "ingredients",
+   "instructions",
+   "language",
+   "prep_time",
+   "title",
+   "total_time",
+   "yields"
+  ]
+ },
+ "melissaknorris.com": {
+  "module": "mellisaknorris",
+  "class": "MellisaKNorris",
+  "overrides": [
+   "equipment"
+  ]
+ },
+ "melloschourico.com": {
+  "module": "melloschourico",
+  "class": "MellosChourico",
+  "overrides": [
+   "_extract_information_blocks",
+   "author",
+   "ingredients",
+   "instructions",
+   "title",
+   "total_time",
+   "yields"
+  ]
+ },
+ "melskitchencafe.com": {
+  "module": "melskitchencafe",
+  "class": "MelsKitchenCafe",
+  "overrides": [
+   "equipment"
+  ]
+ },
+ "mexicanplease.com": {
+  "module": "mexicanplease",
+  "class": "MexicanPlease",
+  "overrides": []
+ },
+ "migusto.migros.ch": {
+  "module": "migusto",
+  "class": "Migusto",
+  "overrides": [
+   "image"
+  ]
+ },
+ "miljuschka.nl": {
+  "module": "miljuschka",
+  "class": "Miljuschka",
+  "overrides": []
+ },
+ "mindmegette.hu": {
+  "module": "mindmegette",
+  "class": "Mindmegette",
+  "overrides": [
+   "image",
+   "ingredients",
+   "instructions",
+   "title",
+   "total_time",
+   "yields"
+  ]
+ },
+ "minimalistbaker.com": {
+  "module": "minimalistbaker",
+  "class": "Minimalistbaker",
+  "overrides": []
+ },
+ "ministryofcurry.com": {
+  "module": "ministryofcurry",
+  "class": "MinistryOfCurry",
+  "overrides": [
+   "equipment"
+  ]
+ },
+ "misya.info": {
+  "module": "misya",
+  "class": "Misya",
+  "overrides": [
+   "site_name"
+  ]
+ },
+ "mob.co.uk": {
+  "module": "mob",
+  "class": "Mob",
+  "overrides": [
+   "author"
+  ]
+ },
+ "mobkitchen.co.uk": {
+  "module": "mobkitchen",
+  "class": "MobKitchen",
+  "overrides": [
+   "author"
+  ]
+ },
+ "modernhoney.com": {
+  "module": "modernhoney",
+  "class": "ModernHoney",
+  "overrides": [
+   "equipment"
+  ]
+ },
+ "mollybaz.com": {
+  "module": "mollybaz",
+  "class": "MollyBaz",
+  "overrides": [
+   "author",
+   "category",
+   "description",
+   "ingredient_groups",
+   "ingredients",
+   "instructions",
+   "title",
+   "total_time",
+   "yields"
+  ]
+ },
+ "momontimeout.com": {
+  "module": "momontimeout",
+  "class": "MomOnTimeout",
+  "overrides": []
+ },
+ "momswithcrockpots.com": {
+  "module": "momswithcrockpots",
+  "class": "MomsWithCrockPots",
+  "overrides": [
+   "equipment"
+  ]
+ },
+ "moscatomom.com": {
+  "module": "moscatomom",
+  "class": "MoscatoMom",
+  "overrides": [
+   "ingredient_groups"
+  ]
+ },
+ "motherthyme.com": {
+  "module": "motherthyme",
+  "class": "MotherThyme",
+  "overrides": [
+   "site_name"
+  ]
+ },
+ "moulinex.fr": {
+  "module": "moulinex",
+  "class": "Moulinex",
+  "overrides": [
+   "ingredients",
+   "site_name"
+  ]
+ },
+ "mundodereceitasbimby.com.pt": {
+  "module": "mundodereceitasbimby",
+  "class": "MundoDeReceitasBimby",
+  "overrides": [
+   "author",
+   "ingredient_groups",
+   "language",
+   "site_name"
+  ]
+ },
+ "mybakingaddiction.com": {
+  "module": "mybakingaddiction",
+  "class": "MyBakingAddiction",
+  "overrides": []
+ },
+ "myjewishlearning.com": {
+  "module": "myjewishlearning",
+  "class": "MyJewishLearning",
+  "overrides": []
+ },
+ "mykidslickthebowl.com": {
+  "module": "mykidslickthebowl",
+  "class": "MyKidsLickTheBowl",
+  "overrides": [
+   "equipment"
+  ]
+ },
+ "mykitchen101.com": {
+  "module": "mykitchen101",
+  "class": "MyKitchen101",
+  "overrides": [
+   "author",
+   "equipment",
+   "ingredients",
+   "instructions",
+   "title",
+   "yields"
+  ]
+ },
+ "mykitchen101en.com": {
+  "module": "mykitchen101en",
+  "class": "MyKitchen101en",
+  "overrides": [
+   "equipment"
+  ]
+ },
+ "mykoreankitchen.com": {
+  "module": "mykoreankitchen",
+  "class": "MyKoreanKitchen",
+  "overrides": [
+   "ingredient_groups"
+  ]
+ },
+ "myrecipes.com": {
+  "module": "myrecipes",
+  "class": "MyRecipes",
+  "overrides": []
+ },
+ "myriadrecipes.com": {
+  "module": "myriadrecipes",
+  "class": "MyriadRecipes",
+  "overrides": []
+ },
+ "myvegetarianroots.com": {
+  "module": "myvegetarianroots",
+  "class": "MyVegetarianRoots",
+  "overrides": []
+ },
+ "natashaskitchen.com": {
+  "module": "natashaskitchen",
+  "class": "NatashasKitchen",
+  "overrides": []
+ },
+ "naturallyella.com": {
+  "module": "naturallyella",
+  "class": "NaturallyElla",
+  "overrides": [
+   "ingredient_groups"
+  ]
+ },
+ "ndr.de": {
+  "module": "ndr",
+  "class": "Ndr",
+  "overrides": [
+   "author",
+   "ingredient_groups",
+   "instructions"
+  ]
+ },
+ "netacooks.com": {
+  "module": "netacooks",
+  "class": "NetaCooks",
+  "overrides": [
+   "ingredient_groups",
+   "ingredients"
+  ]
+ },
+ "newdadskitchen.com": {
+  "module": "newdadskitchen",
+  "class": "NewDadsKitchen",
+  "overrides": []
+ },
+ "nhs.uk": {
+  "module": "nhshealthierfamilies",
+  "class": "NHSHealthierFamilies",
+  "overrides": [
+   "author",
+   "cook_time",
+   "ingredient_groups",
+   "instructions",
+   "prep_time",
+   "title",
+   "total_time",
+   "yields"
+  ]
+ },
+ "nibbledish.com": {
+  "module": "nibbledish",
+  "class": "NibbleDish",
+  "overrides": [
+   "ingredients",
+   "instructions"
+  ]
+ },
+ "healthyeating.nhlbi.nih.gov": {
+  "module": "nihhealthyeating",
+  "class": "NIHHealthyEating",
+  "overrides": [
+   "cook_time",
+   "description",
+   "image",
+   "ingredient_groups",
+   "ingredients",
+   "instructions",
+   "nutrients",
+   "prep_time",
+   "recipe_cards",
+   "recipe_source",
+   "serving_size",
+   "site_name",
+   "title",
+   "total_time",
+   "yields"
+  ]
+ },
+ "ninjatestkitchen.eu": {
+  "module": "ninjatestkitchen",
+  "class": "NinjaTestKitchen",
+  "overrides": [
+   "author",
+   "equipment",
+   "ingredient_groups",
+   "ingredients",
+   "instructions",
+   "keywords"
+  ]
+ },
+ "noracooks.com": {
+  "module": "noracooks",
+  "class": "NoraCooks",
+  "overrides": []
+ },
+ "norecipes.com": {
+  "module": "norecipes",
+  "class": "NoRecipes",
+  "overrides": [
+   "_cleaned_ingredients",
+   "ingredients"
+  ]
+ },
+ "nosalty.hu": {
+  "module": "nosalty",
+  "class": "NoSalty",
+  "overrides": [
+   "ingredient_groups"
+  ]
+ },
+ "notenoughcinnamon.com": {
+  "module": "notenoughcinnamon",
+  "class": "NotEnoughCinnamon",
+  "overrides": []
+ },
+ "nourishedbynutrition.com": {
+  "module": "nourishedbynutrition",
+  "class": "NourishedByNutrition",
+  "overrides": []
+ },
+ "nrk.no": {
+  "module": "nrkmat",
+  "class": "NRKMat",
+  "overrides": [
+   "author",
+   "ingredient_groups",
+   "yields"
+  ]
+ },
+ "number-2-pencil.com": {
+  "module": "number2pencil",
+  "class": "Number2Pencil",
+  "overrides": [
+   "author",
+   "category",
+   "description",
+   "ingredient_groups"
+  ]
+ },
+ "nutritionbynathalie.com": {
+  "module": "nutritionbynathalie",
+  "class": "NutritionByNathalie",
+  "overrides": [
+   "image",
+   "ingredients",
+   "instructions",
+   "ratings",
+   "title"
+  ]
+ },
+ "nutritionfacts.org": {
+  "module": "nutritionfacts",
+  "class": "NutritionFacts",
+  "overrides": []
+ },
+ "cooking.nytimes.com": {
+  "module": "nytimes",
+  "class": "NYTimes",
+  "overrides": [
+   "ingredient_groups"
+  ]
+ },
+ "ohsheglows.com": {
+  "module": "ohsheglows",
+  "class": "OhSheGlows",
+  "overrides": []
+ },
+ "ohsweetbasil.com": {
+  "module": "ohsweetbasil",
+  "class": "OhSweetBasil",
+  "overrides": [
+   "ingredient_groups",
+   "ingredients"
+  ]
+ },
+ "okokorecepten.nl": {
+  "module": "okokorecepten",
+  "class": "OkokoRecepten",
+  "overrides": [
+   "ingredient_groups",
+   "instructions"
+  ]
+ },
+ "omnivorescookbook.com": {
+  "module": "omnivorescookbook",
+  "class": "OmnivoresCookbook",
+  "overrides": [
+   "description",
+   "ingredients"
+  ]
+ },
+ "onceuponachef.com": {
+  "module": "onceuponachef",
+  "class": "OnceUponAChef",
+  "overrides": [
+   "author",
+   "ingredient_groups"
+  ]
+ },
+ "101cookbooks.com": {
+  "module": "onehundredonecookbooks",
+  "class": "OneHundredOneCookBooks",
+  "overrides": [
+   "ingredient_groups"
+  ]
+ },
+ "177milkstreet.com": {
+  "module": "onesevensevenmilkstreet",
+  "class": "OneSevenSevenMilkStreet",
+  "overrides": [
+   "_find_li_by_text",
+   "author",
+   "ingredient_groups",
+   "ingredients",
+   "instructions",
+   "prep_time",
+   "title",
+   "total_time",
+   "yields"
+  ]
+ },
+ "onesweetappetite.com": {
+  "module": "onesweetappetite",
+  "class": "OneSweetAppetite",
+  "overrides": [
+   "equipment"
+  ]
+ },
+ "organicallyaddison.com": {
+  "module": "organicallyaddison",
+  "class": "OrganicallyAddison",
+  "overrides": []
+ },
+ "books.ottolenghi.co.uk": {
+  "module": "ottolenghibooks",
+  "class": "OttolenghiBooks",
+  "overrides": [
+   "author",
+   "category",
+   "description",
+   "dietary_restrictions",
+   "ingredient_groups",
+   "ingredients",
+   "instructions",
+   "keywords",
+   "title",
+   "yields"
+  ]
+ },
+ "ourbestbites.com": {
+  "module": "ourbestbites",
+  "class": "OurBestBites",
+  "overrides": [
+   "equipment"
+  ]
+ },
+ "owen-han.com": {
+  "module": "owenhan",
+  "class": "OwenHan",
+  "overrides": [
+   "author",
+   "ingredients",
+   "instructions",
+   "instructions_list",
+   "title",
+   "total_time"
+  ]
+ },
+ "paleorunningmomma.com": {
+  "module": "paleorunningmomma",
+  "class": "PaleoRunningMomma",
+  "overrides": []
+ },
+ "panelinha.com.br": {
+  "module": "panelinha",
+  "class": "Panelinha",
+  "overrides": [
+   "total_time",
+   "yields"
+  ]
+ },
+ "paninihappy.com": {
+  "module": "paninihappy",
+  "class": "PaniniHappy",
+  "overrides": [
+   "image",
+   "ingredients",
+   "instructions",
+   "site_name",
+   "title",
+   "total_time",
+   "yields"
+  ]
+ },
+ "panlasangpinoy.com": {
+  "module": "panlasangpinoy",
+  "class": "PanlasangPinoy",
+  "overrides": []
+ },
+ "pastificiosorrentino.com": {
+  "module": "pastificiosorrentino",
+  "class": "PastificioSorrentino",
+  "overrides": [
+   "instructions",
+   "site_name"
+  ]
+ },
+ "pauladeen.com": {
+  "module": "pauladeen",
+  "class": "PaulaDeen",
+  "overrides": [
+   "_CustomSchemaOrg",
+   "_schema_cls",
+   "cuisine",
+   "description",
+   "instructions",
+   "ratings"
+  ]
+ },
+ "peelwithzeal.com": {
+  "module": "peelwithzeal",
+  "class": "PeelWithZeal",
+  "overrides": [
+   "equipment"
+  ]
+ },
+ "persnicketyplates.com": {
+  "module": "persnicketyplates",
+  "class": "PersnicketyPlates",
+  "overrides": [
+   "equipment"
+  ]
+ },
+ "en.petitchef.com": {
+  "module": "petitchef",
+  "class": "PetitChef",
+  "overrides": [
+   "ingredient_groups"
+  ]
+ },
+ "pickuplimes.com": {
+  "module": "pickuplimes",
+  "class": "PickUpLimes",
+  "overrides": [
+   "ingredient_groups",
+   "ingredients",
+   "instructions"
+  ]
+ },
+ "picnic.app": {
+  "module": "picnic",
+  "class": "Picnic",
+  "overrides": [
+   "author",
+   "description",
+   "ingredients",
+   "instructions",
+   "language",
+   "prep_time",
+   "site_name",
+   "title",
+   "total_time",
+   "yields"
+  ]
+ },
+ "piesandplots.net": {
+  "module": "piesandplots",
+  "class": "PiesAndPlots",
+  "overrides": []
+ },
+ "pilipinasrecipes.com": {
+  "module": "pilipinasrecipes",
+  "class": "PilipinasRecipes",
+  "overrides": []
+ },
+ "pinchofyum.com": {
+  "module": "pinchofyum",
+  "class": "PinchOfYum",
+  "overrides": []
+ },
+ "pingodoce.pt": {
+  "module": "pingodoce",
+  "class": "PingoDoce",
+  "overrides": [
+   "category",
+   "cuisine",
+   "instructions"
+  ]
+ },
+ "pinkowlkitchen.com": {
+  "module": "pinkowlkitchen",
+  "class": "PinkOwlKitchen",
+  "overrides": [
+   "equipment"
+  ]
+ },
+ "plantyou.com": {
+  "module": "plantyou",
+  "class": "PlantYou",
+  "overrides": [
+   "equipment"
+  ]
+ },
+ "platingpixels.com": {
+  "module": "platingpixels",
+  "class": "PlatingPixels",
+  "overrides": [
+   "author",
+   "ingredient_groups"
+  ]
+ },
+ "platingsandpairings.com": {
+  "module": "platingsandpairings",
+  "class": "PlatingsAndPairings",
+  "overrides": [
+   "equipment"
+  ]
+ },
+ "plowingthroughlife.com": {
+  "module": "plowingthroughlife",
+  "class": "PlowingThroughLife",
+  "overrides": [
+   "equipment"
+  ]
+ },
+ "polishfoodies.com": {
+  "module": "polishfoodies",
+  "class": "PolishFoodies",
+  "overrides": [
+   "ingredient_groups"
+  ]
+ },
+ "poppycooks.com": {
+  "module": "poppycooks",
+  "class": "PoppyCooks",
+  "overrides": [
+   "author",
+   "image",
+   "ingredient_groups",
+   "ingredients",
+   "instructions",
+   "title",
+   "yields"
+  ]
+ },
+ "popsugar.com": {
+  "module": "popsugar",
+  "class": "PopSugar",
+  "overrides": [
+   "image",
+   "ingredients",
+   "instructions",
+   "title",
+   "total_time",
+   "yields"
+  ]
+ },
+ "theppk.com": {
+  "module": "postpunkkitchen",
+  "class": "PostPunkKitchen",
+  "overrides": [
+   "total_time"
+  ]
+ },
+ "potatorolls.com": {
+  "module": "potatorolls",
+  "class": "PotatoRolls",
+  "overrides": [
+   "author",
+   "ingredient_groups",
+   "ingredients",
+   "instructions",
+   "language",
+   "yields"
+  ]
+ },
+ "practicalselfreliance.com": {
+  "module": "practicalselfreliance",
+  "class": "PracticalSelfReliance",
+  "overrides": [
+   "equipment"
+  ]
+ },
+ "preppykitchen.com": {
+  "module": "preppykitchen",
+  "class": "PreppyKitchen",
+  "overrides": [
+   "equipment"
+  ]
+ },
+ "pressureluckcooking.com": {
+  "module": "pressureluckcooking",
+  "class": "PressureLuckCooking",
+  "overrides": []
+ },
+ "primaledgehealth.com": {
+  "module": "primaledgehealth",
+  "class": "PrimalEdgeHealth",
+  "overrides": [
+   "ingredients"
+  ]
+ },
+ "projectgezond.nl": {
+  "module": "projectgezond",
+  "class": "ProjectGezond",
+  "overrides": [
+   "author",
+   "category",
+   "cuisine",
+   "nutrients",
+   "ratings"
+  ]
+ },
+ "przepisy.pl": {
+  "module": "przepisy",
+  "class": "Przepisy",
+  "overrides": [
+   "ingredients",
+   "site_name",
+   "yields"
+  ]
+ },
+ "purelypope.com": {
+  "module": "purelypope",
+  "class": "PurelyPope",
+  "overrides": []
+ },
+ "purplecarrot.com": {
+  "module": "purplecarrot",
+  "class": "PurpleCarrot",
+  "overrides": [
+   "site_name"
+  ]
+ },
+ "quakeroats.com": {
+  "module": "quakeroats",
+  "class": "QuakerOats",
+  "overrides": [
+   "_get_metadata_from_span",
+   "author",
+   "cook_time",
+   "description",
+   "ingredient_groups",
+   "ingredients",
+   "instructions",
+   "language",
+   "prep_time",
+   "title",
+   "total_time",
+   "yields"
+  ]
+ },
+ "quitoque.fr": {
+  "module": "quitoque",
+  "class": "QuiToque",
+  "overrides": [
+   "_get_nutrient",
+   "_get_text",
+   "_get_time",
+   "author",
+   "canonical_url",
+   "category",
+   "description",
+   "equipment",
+   "image",
+   "ingredients",
+   "instructions",
+   "keywords",
+   "nutrients",
+   "prep_time",
+   "title",
+   "total_time",
+   "yields"
+  ]
+ },
+ "rachlmansfield.com": {
+  "module": "rachlmansfield",
+  "class": "RachlMansfield",
+  "overrides": [
+   "total_time"
+  ]
+ },
+ "rainbowplantlife.com": {
+  "module": "rainbowplantlife",
+  "class": "RainbowPlantLife",
+  "overrides": []
+ },
+ "realfood.tesco.com": {
+  "module": "realfoodtesco",
+  "class": "RealFoodTesco",
+  "overrides": [
+   "ingredient_groups"
+  ]
+ },
+ "realfoodwell.com": {
+  "module": "realfoodwell",
+  "class": "RealFoodWell",
+  "overrides": []
+ },
+ "realmomnutrition.com": {
+  "module": "realmomnutrition",
+  "class": "RealMomNutrition",
+  "overrides": [
+   "equipment",
+   "ingredient_groups"
+  ]
+ },
+ "realsimple.com": {
+  "module": "realsimple",
+  "class": "RealSimple",
+  "overrides": []
+ },
+ "receitasnestle.com.br": {
+  "module": "receitasnestlebr",
+  "class": "ReceitasNestleBR",
+  "overrides": [
+   "instructions",
+   "ratings",
+   "total_time"
+  ]
+ },
+ "recept.se": {
+  "module": "recept",
+  "class": "Recept",
+  "overrides": []
+ },
+ "recepti.index.hr": {
+  "module": "receptiindex",
+  "class": "ReceptiIndex",
+  "overrides": [
+   "ingredient_groups",
+   "instructions"
+  ]
+ },
+ "receptyprevas.sk": {
+  "module": "receptyprevas",
+  "class": "ReceptyPreVas",
+  "overrides": [
+   "description",
+   "ingredient_groups"
+  ]
+ },
+ "recette.plus": {
+  "module": "recetteplus",
+  "class": "RecettePlus",
+  "overrides": [
+   "equipment"
+  ]
+ },
+ "recipeforperfection.com": {
+  "module": "recipeforperfection",
+  "class": "RecipeForPerfection",
+  "overrides": []
+ },
+ "recipegirl.com": {
+  "module": "recipegirl",
+  "class": "RecipeGirl",
+  "overrides": []
+ },
+ "recipeland.com": {
+  "module": "recipeland",
+  "class": "RecipeLand",
+  "overrides": [
+   "_parse_ingredient_row",
+   "ingredient_groups",
+   "ingredients"
+  ]
+ },
+ "reciperunner.com": {
+  "module": "reciperunner",
+  "class": "RecipeRunner",
+  "overrides": []
+ },
+ "recipetineats.com": {
+  "module": "recipetineats",
+  "class": "RecipeTinEats",
+  "overrides": []
+ },
+ "redhousespice.com": {
+  "module": "redhousespice",
+  "class": "RedHouseSpice",
+  "overrides": []
+ },
+ "reishunger.de": {
+  "module": "reishunger",
+  "class": "Reishunger",
+  "overrides": [
+   "_filter_ingredients",
+   "equipment",
+   "ingredients",
+   "instructions"
+  ]
+ },
+ "relish.com": {
+  "module": "relish",
+  "class": "Relish",
+  "overrides": []
+ },
+ "rewe.de": {
+  "module": "rewe",
+  "class": "Rewe",
+  "overrides": [
+   "equipment",
+   "instructions"
+  ]
+ },
+ "rezeptwelt.de": {
+  "module": "rezeptwelt",
+  "class": "Rezeptwelt",
+  "overrides": [
+   "author",
+   "cuisine",
+   "description",
+   "instructions",
+   "language",
+   "site_name"
+  ]
+ },
+ "ricardocuisine.com": {
+  "module": "ricardocuisine",
+  "class": "RicardoCuisine",
+  "overrides": [
+   "ingredient_groups"
+  ]
+ },
+ "ricetta.it": {
+  "module": "ricetta",
+  "class": "Ricetta",
+  "overrides": [
+   "instructions",
+   "site_name"
+  ]
+ },
+ "ricetteperbimby.it": {
+  "module": "ricetteperbimby",
+  "class": "RicettePerBimby",
+  "overrides": [
+   "ingredient_groups"
+  ]
+ },
+ "rickbayless.com": {
+  "module": "rickbayless",
+  "class": "RickBayless",
+  "overrides": [
+   "author",
+   "description",
+   "ingredients",
+   "instructions",
+   "site_name",
+   "title",
+   "total_time",
+   "yields"
+  ]
+ },
+ "rosannapansino.com": {
+  "module": "rosannapansino",
+  "class": "RosannaPansino",
+  "overrides": [
+   "description",
+   "ingredients",
+   "instructions",
+   "title",
+   "total_time"
+  ]
+ },
+ "rutgerbakt.nl": {
+  "module": "rutgerbakt",
+  "class": "RutgerBakt",
+  "overrides": [
+   "author",
+   "category",
+   "description",
+   "ingredient_groups",
+   "instructions",
+   "title",
+   "yields"
+  ]
+ },
+ "russianfood.com": {
+  "module": "russianfood",
+  "class": "RussianFood",
+  "overrides": [
+   "author",
+   "image",
+   "ingredient_groups",
+   "ingredients",
+   "instructions",
+   "title"
+  ]
+ },
+ "saboresajinomoto.com.br": {
+  "module": "saboresajinomoto",
+  "class": "SaboresAjinomoto",
+  "overrides": [
+   "category",
+   "ingredient_groups",
+   "ingredients",
+   "instructions",
+   "site_name",
+   "title"
+  ]
+ },
+ "sallysbakingaddiction.com": {
+  "module": "sallysbakingaddiction",
+  "class": "SallysBakingAddiction",
+  "overrides": [
+   "ingredient_groups"
+  ]
+ },
+ "sallys-blog.de": {
+  "module": "sallysblog",
+  "class": "SallysBlog",
+  "overrides": [
+   "author",
+   "ingredient_groups",
+   "ingredients"
+  ]
+ },
+ "saltpepperskillet.com": {
+  "module": "saltpepperskillet",
+  "class": "SaltPepperSkillet",
+  "overrides": [
+   "author",
+   "equipment"
+  ]
+ },
+ "app.samsungfood.com": {
+  "module": "samsungfood",
+  "class": "SamsungFood",
+  "overrides": [
+   "ingredients",
+   "instructions",
+   "nutrients"
+  ]
+ },
+ "sandwichtribunal.com": {
+  "module": "sandwhichtribunal",
+  "class": "SandwhichTribunal",
+  "overrides": []
+ },
+ "saveur.com": {
+  "module": "saveur",
+  "class": "Saveur",
+  "overrides": []
+ },
+ "savoringthegood.com": {
+  "module": "savoringthegood",
+  "class": "SavoringTheGood",
+  "overrides": [
+   "equipment"
+  ]
+ },
+ "savorynothings.com": {
+  "module": "savorynothings",
+  "class": "SavoryNothings",
+  "overrides": [
+   "equipment"
+  ]
+ },
+ "savorythoughts.com": {
+  "module": "savorythoughts",
+  "class": "SavoryThoughts",
+  "overrides": []
+ },
+ "savvysavingcouple.net": {
+  "module": "savvysavingcouple",
+  "class": "SavvySavingCouple",
+  "overrides": [
+   "equipment",
+   "instructions"
+  ]
+ },
+ "schoolofwok.co.uk": {
+  "module": "schoolofwok",
+  "class": "SchoolOfWok",
+  "overrides": [
+   "author",
+   "cuisine",
+   "description",
+   "image",
+   "ingredient_groups",
+   "ingredients",
+   "instructions",
+   "site_name",
+   "title",
+   "total_time",
+   "yields"
+  ]
+ },
+ "scrambledandscrumptious.com": {
+  "module": "scrambledandscrumptious",
+  "class": "ScrambledAndScrumptious",
+  "overrides": [
+   "ingredient_groups",
+   "ingredients",
+   "instructions"
+  ]
+ },
+ "scrummylane.com": {
+  "module": "scrummylane",
+  "class": "ScrummyLane",
+  "overrides": [
+   "equipment"
+  ]
+ },
+ "seriouseats.com": {
+  "module": "seriouseats",
+  "class": "SeriousEats",
+  "overrides": []
+ },
+ "sharkninja.com": {
+  "module": "sharkninja",
+  "class": "SharkNinja",
+  "overrides": [
+   "author",
+   "description",
+   "equipment",
+   "ingredients",
+   "instructions",
+   "total_time",
+   "yields"
+  ]
+ },
+ "shelikesfood.com": {
+  "module": "shelikesfood",
+  "class": "SheLikesFood",
+  "overrides": [
+   "ingredient_groups"
+  ]
+ },
+ "simplegreensmoothies.com": {
+  "module": "simplegreensmoothies",
+  "class": "SimpleGreenSmoothies",
+  "overrides": [
+   "equipment",
+   "ingredients"
+  ]
+ },
+ "simplehomeedit.com": {
+  "module": "simplehomeedit",
+  "class": "SimpleHomeEdit",
+  "overrides": [
+   "instructions"
+  ]
+ },
+ "simple-veganista.com": {
+  "module": "simpleveganista",
+  "class": "SimpleVeganista",
+  "overrides": []
+ },
+ "simply-cookit.com": {
+  "module": "simplycookit",
+  "class": "SimplyCookit",
+  "overrides": [
+   "ingredient_groups",
+   "ingredients",
+   "instructions",
+   "site_name"
+  ]
+ },
+ "simplyquinoa.com": {
+  "module": "simplyquinoa",
+  "class": "SimplyQuinoa",
+  "overrides": []
+ },
+ "simplyrecipes.com": {
+  "module": "simplyrecipes",
+  "class": "SimplyRecipes",
+  "overrides": [
+   "instructions"
+  ]
+ },
+ "simplyscratch.com": {
+  "module": "simplyscratch",
+  "class": "SimplyScratch",
+  "overrides": [
+   "equipment"
+  ]
+ },
+ "simplywhisked.com": {
+  "module": "simplywhisked",
+  "class": "SimplyWhisked",
+  "overrides": []
+ },
+ "sipandfeast.com": {
+  "module": "sipandfeast",
+  "class": "SipAndFeast",
+  "overrides": []
+ },
+ "sizzlefish.com": {
+  "module": "sizzlefish",
+  "class": "SizzleFish",
+  "overrides": [
+   "category",
+   "description",
+   "ingredient_groups"
+  ]
+ },
+ "sizzlingeats.com": {
+  "module": "sizzlingeats",
+  "class": "SizzlingEats",
+  "overrides": [
+   "equipment",
+   "instructions"
+  ]
+ },
+ "skinnytaste.com": {
+  "module": "skinnytaste",
+  "class": "SkinnyTaste",
+  "overrides": [
+   "equipment"
+  ]
+ },
+ "smalltownwoman.com": {
+  "module": "smalltownwoman",
+  "class": "SmallTownWoman",
+  "overrides": []
+ },
+ "smulweb.nl": {
+  "module": "smulweb",
+  "class": "Smulweb",
+  "overrides": [
+   "instructions"
+  ]
+ },
+ "sobors.hu": {
+  "module": "sobors",
+  "class": "SoBors",
+  "overrides": []
+ },
+ "somuchfoodblog.com": {
+  "module": "somuchfoodblog",
+  "class": "SoMuchFoodBlog",
+  "overrides": []
+ },
+ "southernbite.com": {
+  "module": "southernbite",
+  "class": "SouthernBite",
+  "overrides": []
+ },
+ "southerncastiron.com": {
+  "module": "southerncastiron",
+  "class": "SouthernCastIron",
+  "overrides": []
+ },
+ "southernliving.com": {
+  "module": "southernliving",
+  "class": "SouthernLiving",
+  "overrides": [
+   "yields"
+  ]
+ },
+ "spainonafork.com": {
+  "module": "spainonafork",
+  "class": "SpainOnAFork",
+  "overrides": []
+ },
+ "spendwithpennies.com": {
+  "module": "spendwithpennies",
+  "class": "SpendWithPennies",
+  "overrides": [
+   "equipment"
+  ]
+ },
+ "spicysouthernkitchen.com": {
+  "module": "spicysouthernkitchen",
+  "class": "SpicySouthernKitchen",
+  "overrides": [
+   "equipment"
+  ]
+ },
+ "spisbedre.dk": {
+  "module": "spisbedre",
+  "class": "SpisBedre",
+  "overrides": [
+   "category",
+   "equipment",
+   "ingredient_groups",
+   "ingredients",
+   "instructions",
+   "nutrients",
+   "total_time",
+   "yields"
+  ]
+ },
+ "springlane.de": {
+  "module": "springlane",
+  "class": "Springlane",
+  "overrides": []
+ },
+ "stacyling.com": {
+  "module": "stacyling",
+  "class": "StacyLing",
+  "overrides": [
+   "equipment"
+  ]
+ },
+ "staysnatched.com": {
+  "module": "staysnatched",
+  "class": "StaySnatched",
+  "overrides": [
+   "author",
+   "equipment"
+  ]
+ },
+ "steamykitchen.com": {
+  "module": "steamykitchen",
+  "class": "SteamyKitchen",
+  "overrides": [
+   "ratings"
+  ]
+ },
+ "streetkitchen.hu": {
+  "module": "streetkitchen",
+  "class": "StreetKitchen",
+  "overrides": [
+   "_is_times_metadata_ul",
+   "_total_time_from_page",
+   "ingredient_groups",
+   "ingredients",
+   "instructions",
+   "total_time"
+  ]
+ },
+ "strongrfastr.com": {
+  "module": "strongrfastr",
+  "class": "StrongrFastr",
+  "overrides": [
+   "site_name"
+  ]
+ },
+ "sudachirecipes.com": {
+  "module": "sudachirecipes",
+  "class": "SudachiRecipes",
+  "overrides": []
+ },
+ "sugarhero.com": {
+  "module": "sugarhero",
+  "class": "SugarHero",
+  "overrides": []
+ },
+ "sugarmaplefarmhouse.com": {
+  "module": "sugarmaplefarmhouse",
+  "class": "SugarMapleFarmhouse",
+  "overrides": []
+ },
+ "sugarspunrun.com": {
+  "module": "sugarspunrun",
+  "class": "SugarSpunRun",
+  "overrides": [
+   "equipment"
+  ]
+ },
+ "sunbasket.com": {
+  "module": "sunbasket",
+  "class": "SunBasket",
+  "overrides": [
+   "instructions",
+   "site_name"
+  ]
+ },
+ "sundaysuppermovement.com": {
+  "module": "sundaysuppermovement",
+  "class": "SundaySupperMovement",
+  "overrides": [
+   "instructions"
+  ]
+ },
+ "sundpaabudget.dk": {
+  "module": "sundpaabudget",
+  "class": "SundPaaBudget",
+  "overrides": [
+   "description",
+   "nutrients"
+  ]
+ },
+ "sunset.com": {
+  "module": "sunset",
+  "class": "Sunset",
+  "overrides": [
+   "ingredient_groups"
+  ]
+ },
+ "sweetcsdesigns.com": {
+  "module": "sweetcsdesigns",
+  "class": "SweetCsDesigns",
+  "overrides": []
+ },
+ "sweetpeasandsaffron.com": {
+  "module": "sweetpeasandsaffron",
+  "class": "SweetPeasAndSaffron",
+  "overrides": []
+ },
+ "swissmilk.ch": {
+  "module": "swissmilk",
+  "class": "SwissMilk",
+  "overrides": []
+ },
+ "tableanddish.com": {
+  "module": "tableanddish",
+  "class": "TableAndDish",
+  "overrides": []
+ },
+ "tasteandtellblog.com": {
+  "module": "tasteandtellblog",
+  "class": "TasteAndTellBlog",
+  "overrides": []
+ },
+ "tasteatlas.com": {
+  "module": "tasteatlas",
+  "class": "TasteAtlas",
+  "overrides": [
+   "description",
+   "site_name"
+  ]
+ },
+ "taste.com.au": {
+  "module": "tasteau",
+  "class": "TasteAU",
+  "overrides": [
+   "ingredient_groups",
+   "ingredients",
+   "instructions"
+  ]
+ },
+ "tastefullygrace.com": {
+  "module": "tastefullygrace",
+  "class": "TastefullyGrace",
+  "overrides": [
+   "equipment"
+  ]
+ },
+ "tasteline.com": {
+  "module": "tasteline",
+  "class": "Tasteline",
+  "overrides": [
+   "ingredient_groups",
+   "ingredients"
+  ]
+ },
+ "tasteofhome.com": {
+  "module": "tasteofhome",
+  "class": "TasteOfHome",
+  "overrides": [
+   "ingredient_groups",
+   "ingredients"
+  ]
+ },
+ "tastesbetterfromscratch.com": {
+  "module": "tastesbetterfromscratch",
+  "class": "TastesBetterFromScratch",
+  "overrides": [
+   "equipment"
+  ]
+ },
+ "tastesoflizzyt.com": {
+  "module": "tastesoflizzyt",
+  "class": "TastesOfLizzyT",
+  "overrides": []
+ },
+ "tastinghistory.com": {
+  "module": "tastinghistory",
+  "class": "TastingHistory",
+  "overrides": [
+   "author",
+   "category",
+   "description",
+   "image",
+   "ingredient_groups",
+   "ingredients",
+   "instructions",
+   "site_name",
+   "title",
+   "total_time",
+   "yields"
+  ]
+ },
+ "tasty.co": {
+  "module": "tasty",
+  "class": "Tasty",
+  "overrides": [
+   "ingredient_groups"
+  ]
+ },
+ "tastykitchen.com": {
+  "module": "tastykitchen",
+  "class": "TastyKitchen",
+  "overrides": [
+   "ingredients",
+   "instructions",
+   "site_name",
+   "title"
+  ]
+ },
+ "tastyoven.com": {
+  "module": "tastyoven",
+  "class": "TastyOven",
+  "overrides": [
+   "equipment"
+  ]
+ },
+ "tatyanaseverydayfood.com": {
+  "module": "tatyanaseverydayfood",
+  "class": "TatyanasEverydayFood",
+  "overrides": []
+ },
+ "teakandthyme.com": {
+  "module": "teakandthyme",
+  "class": "TeakAndThyme",
+  "overrides": []
+ },
+ "thealmondeater.com": {
+  "module": "thealmondeater",
+  "class": "TheAlmondEater",
+  "overrides": []
+ },
+ "thebigmansworld.com": {
+  "module": "thebigmansworld",
+  "class": "TheBigMansWorld",
+  "overrides": []
+ },
+ "theclevercarrot.com": {
+  "module": "theclevercarrot",
+  "class": "TheCleverCarrot",
+  "overrides": [
+   "ingredient_groups"
+  ]
+ },
+ "thecookierookie.com": {
+  "module": "thecookierookie",
+  "class": "TheCookieRookie",
+  "overrides": []
+ },
+ "thecookingguy.com": {
+  "module": "thecookingguy",
+  "class": "TheCookingGuy",
+  "overrides": [
+   "description",
+   "ingredient_groups",
+   "ingredients",
+   "instructions",
+   "site_name",
+   "total_time",
+   "yields"
+  ]
+ },
+ "thecountrycook.net": {
+  "module": "thecountrycook",
+  "class": "TheCountryCook",
+  "overrides": []
+ },
+ "thefirstmess.com": {
+  "module": "thefirstmess",
+  "class": "TheFirstMess",
+  "overrides": []
+ },
+ "thefoodcharlatan.com": {
+  "module": "thefoodcharlatan",
+  "class": "TheFoodCharlatan",
+  "overrides": []
+ },
+ "thefoodietakesflight.com": {
+  "module": "thefoodietakesflight",
+  "class": "TheFoodieTakesFlight",
+  "overrides": []
+ },
+ "theglutenfreeaustrian.com": {
+  "module": "theglutenfreeaustrian",
+  "class": "TheGlutenFreeAustrian",
+  "overrides": [
+   "ingredient_groups",
+   "yields"
+  ]
+ },
+ "theguardian.com": {
+  "module": "theguardian",
+  "class": "TheGuardian",
+  "overrides": []
+ },
+ "thehappyfoodie.co.uk": {
+  "module": "thehappyfoodie",
+  "class": "TheHappyFoodie",
+  "overrides": [
+   "ingredient_groups",
+   "ingredients"
+  ]
+ },
+ "theicecreamconfectionals.com": {
+  "module": "theicecreamconfectionals",
+  "class": "TheIceCreamConfectionals",
+  "overrides": [
+   "ingredient_groups"
+  ]
+ },
+ "thekitchencommunity.org": {
+  "module": "thekitchencommunity",
+  "class": "TheKitchenCommunity",
+  "overrides": [
+   "equipment"
+  ]
+ },
+ "thekitchenmagpie.com": {
+  "module": "thekitchenmagpie",
+  "class": "TheKitchenMagPie",
+  "overrides": [
+   "equipment"
+  ]
+ },
+ "thekitchn.com": {
+  "module": "thekitchn",
+  "class": "TheKitchn",
+  "overrides": [
+   "ingredient_groups",
+   "site_name"
+  ]
+ },
+ "theloopywhisk.com": {
+  "module": "theloopywhisk",
+  "class": "TheLoopyWhisk",
+  "overrides": []
+ },
+ "themagicalslowcooker.com": {
+  "module": "themagicalslowcooker",
+  "class": "TheMagicalSlowCooker",
+  "overrides": [
+   "equipment"
+  ]
+ },
+ "themediterraneandish.com": {
+  "module": "themediterranedish",
+  "class": "TheMediterraneDish",
+  "overrides": []
+ },
+ "themodernproper.com": {
+  "module": "themodernproper",
+  "class": "TheModernProper",
+  "overrides": [
+   "ingredient_groups",
+   "nutrients"
+  ]
+ },
+ "theoldwomanandthesea.com": {
+  "module": "theoldwomanandthesea",
+  "class": "TheOldWomanAndTheSea",
+  "overrides": [
+   "description",
+   "ingredient_groups"
+  ]
+ },
+ "thepalatablelife.com": {
+  "module": "thepalatablelife",
+  "class": "ThePalatableLife",
+  "overrides": []
+ },
+ "thepioneerwoman.com": {
+  "module": "thepioneerwoman",
+  "class": "ThePioneerWoman",
+  "overrides": [
+   "ingredient_groups",
+   "instructions"
+  ]
+ },
+ "theplantbasedschool.com": {
+  "module": "theplantbasedschool",
+  "class": "ThePlantBasedSchool",
+  "overrides": [
+   "equipment",
+   "instructions"
+  ]
+ },
+ "therecipecritic.com": {
+  "module": "therecipecritic",
+  "class": "TheRecipeCritic",
+  "overrides": [
+   "author"
+  ]
+ },
+ "thesaltymarshmallow.com": {
+  "module": "thesaltymarshmallow",
+  "class": "TheSaltyMarshmallow",
+  "overrides": []
+ },
+ "thespicetrain.com": {
+  "module": "thespicetrain",
+  "class": "TheSpiceTrain",
+  "overrides": [
+   "equipment"
+  ]
+ },
+ "thespruceeats.com": {
+  "module": "thespruceeats",
+  "class": "TheSpruceEats",
+  "overrides": [
+   "ingredient_groups",
+   "ingredients"
+  ]
+ },
+ "thesuburbansoapbox.com": {
+  "module": "thesuburbansoapbox",
+  "class": "TheSuburbanSoapBox",
+  "overrides": [
+   "equipment"
+  ]
+ },
+ "thevintagemixer.com": {
+  "module": "thevintagemixer",
+  "class": "TheVintageMixer",
+  "overrides": [
+   "site_name"
+  ]
+ },
+ "thewoksoflife.com": {
+  "module": "thewoksoflife",
+  "class": "Thewoksoflife",
+  "overrides": []
+ },
+ "thewoodenskillet.com": {
+  "module": "thewoodenskillet",
+  "class": "TheWoodenSkillet",
+  "overrides": []
+ },
+ "thinlicious.com": {
+  "module": "thinlicious",
+  "class": "Thinlicious",
+  "overrides": [
+   "equipment"
+  ]
+ },
+ "30seconds.com": {
+  "module": "thirtyseconds",
+  "class": "ThirtySeconds",
+  "overrides": [
+   "_article",
+   "_directions_ol",
+   "author",
+   "image",
+   "ingredients",
+   "instructions",
+   "site_name",
+   "title",
+   "total_time",
+   "yields"
+  ]
+ },
+ "thishealthytable.com": {
+  "module": "thishealthytable",
+  "class": "ThisHealthyTable",
+  "overrides": []
+ },
+ "365daysofbakingandmore.com": {
+  "module": "threesixfivedaysofbakingandmore",
+  "class": "ThreeSixFiveDaysOfBakingAndMore",
+  "overrides": []
+ },
+ "tidymom.net": {
+  "module": "tidymom",
+  "class": "TidyMom",
+  "overrides": [
+   "ingredient_groups"
+  ]
+ },
+ "recipes.timesofindia.com": {
+  "module": "timesofindia",
+  "class": "TimesOfIndia",
+  "overrides": [
+   "ingredient_groups",
+   "ingredients",
+   "language",
+   "site_name"
+  ]
+ },
+ "tine.no": {
+  "module": "tineno",
+  "class": "TineNo",
+  "overrides": [
+   "image",
+   "ingredient_groups",
+   "instructions"
+  ]
+ },
+ "tofoo.co.uk": {
+  "module": "tofoo",
+  "class": "Tofoo",
+  "overrides": [
+   "_find_hero_stat",
+   "author",
+   "cook_time",
+   "ingredient_groups",
+   "ingredients",
+   "instructions",
+   "keywords",
+   "prep_time",
+   "title",
+   "total_time",
+   "yields"
+  ]
+ },
+ "toriavey.com": {
+  "module": "toriavey",
+  "class": "ToriAvey",
+  "overrides": []
+ },
+ "tudogostoso.com.br": {
+  "module": "tudogostoso",
+  "class": "TudoGostoso",
+  "overrides": [
+   "ingredient_groups"
+  ]
+ },
+ "tudoreceitas.com": {
+  "module": "tudoreceitas",
+  "class": "TudoReceitas",
+  "overrides": [
+   "ingredient_groups"
+  ]
+ },
+ "24kitchen.nl": {
+  "module": "twentyfourkitchen",
+  "class": "TwentyFourKitchen",
+  "overrides": [
+   "ingredient_groups",
+   "instructions"
+  ]
+ },
+ "twopeasandtheirpod.com": {
+  "module": "twopeasandtheirpod",
+  "class": "TwoPeasAndTheirPod",
+  "overrides": []
+ },
+ "uitpaulineskeuken.nl": {
+  "module": "uitpaulineskeukennl",
+  "class": "UitPaulinesKeukenNL",
+  "overrides": [
+   "description",
+   "ingredient_groups",
+   "ingredients",
+   "instructions"
+  ]
+ },
+ "unsophisticook.com": {
+  "module": "unsophisticook",
+  "class": "Unsophisticook",
+  "overrides": [
+   "equipment",
+   "ingredient_groups"
+  ]
+ },
+ "usapears.org": {
+  "module": "usapears",
+  "class": "USAPears",
+  "overrides": [
+   "author",
+   "ingredient_groups",
+   "ingredients",
+   "nutrients",
+   "ratings",
+   "total_time"
+  ]
+ },
+ "myplate.gov": {
+  "module": "usdamyplate",
+  "class": "USDAMyPlate",
+  "overrides": [
+   "cook_time",
+   "ingredient_groups",
+   "ingredients",
+   "instructions",
+   "nutrients",
+   "prep_time",
+   "site_name",
+   "total_time"
+  ]
+ },
+ "valdemarsro.dk": {
+  "module": "valdemarsro",
+  "class": "Valdemarsro",
+  "overrides": [
+   "category",
+   "cook_time",
+   "description",
+   "get_time",
+   "instructions",
+   "total_time"
+  ]
+ },
+ "valentinascorner.com": {
+  "module": "valentinascorner",
+  "class": "ValentinasCorner",
+  "overrides": []
+ },
+ "vanillaandbean.com": {
+  "module": "vanillaandbean",
+  "class": "VanillaAndBean",
+  "overrides": []
+ },
+ "varecha.pravda.sk": {
+  "module": "varechapravdask",
+  "class": "VarechaPravdaSK",
+  "overrides": [
+   "_format_ingredient",
+   "ingredient_groups",
+   "ingredients"
+  ]
+ },
+ "veganricha.com": {
+  "module": "veganricha",
+  "class": "VeganRicha",
+  "overrides": []
+ },
+ "vegansociety.com": {
+  "module": "vegansociety",
+  "class": "VeganSociety",
+  "overrides": [
+   "_find_content_heading",
+   "_find_content_list",
+   "author",
+   "category",
+   "description",
+   "image",
+   "ingredients",
+   "instructions",
+   "title"
+  ]
+ },
+ "vegetarbloggen.no": {
+  "module": "vegetarbloggen",
+  "class": "Vegetarbloggen",
+  "overrides": [
+   "instructions",
+   "site_name"
+  ]
+ },
+ "vegolosi.it": {
+  "module": "vegolosi",
+  "class": "Vegolosi",
+  "overrides": [
+   "title"
+  ]
+ },
+ "vegrecipesofindia.com": {
+  "module": "vegrecipesofindia",
+  "class": "VegRecipesOfIndia",
+  "overrides": []
+ },
+ "velocidadcuchara.com": {
+  "module": "velocidadcuchara",
+  "class": "VelocidadCuchara",
+  "overrides": [
+   "_ingredient_items",
+   "_is_group_header",
+   "ingredient_groups",
+   "ingredients"
+  ]
+ },
+ "veroniquecloutier.com": {
+  "module": "veroniquecloutier",
+  "class": "VeroniqueCloutier",
+  "overrides": [
+   "author",
+   "description",
+   "ingredient_groups",
+   "ingredients",
+   "instructions",
+   "title",
+   "total_time",
+   "yields"
+  ]
+ },
+ "waitrose.com": {
+  "module": "waitrose",
+  "class": "Waitrose",
+  "overrides": [
+   "author",
+   "ingredients",
+   "instructions",
+   "site_name"
+  ]
+ },
+ "watchwhatueat.com": {
+  "module": "watchwhatueat",
+  "class": "WatchWhatUEat",
+  "overrides": [
+   "equipment",
+   "ingredients"
+  ]
+ },
+ "www1.wdr.de": {
+  "module": "wdr",
+  "class": "WDR",
+  "overrides": [
+   "description",
+   "image",
+   "ingredients",
+   "instructions",
+   "site_name",
+   "title"
+  ]
+ },
+ "wearenotmartha.com": {
+  "module": "wearenotmartha",
+  "class": "WeAreNotMartha",
+  "overrides": []
+ },
+ "wedishitup.com": {
+  "module": "wedishitup",
+  "class": "WeDishItUp",
+  "overrides": [
+   "equipment"
+  ]
+ },
+ "weightwatchers.com": {
+  "module": "weightwatcherspublic",
+  "class": "WeightWatchersPublic",
+  "overrides": [
+   "_WeightWatchers__parse_ingredient",
+   "_extract_ingredient_name",
+   "_extract_portion_parts",
+   "_find_ingredient_tags",
+   "author",
+   "ingredients",
+   "language",
+   "nutrients",
+   "site_name"
+  ]
+ },
+ "wellplated.com": {
+  "module": "wellplated",
+  "class": "WellPlated",
+  "overrides": [
+   "cuisine"
+  ]
+ },
+ "whatsgabycooking.com": {
+  "module": "whatsgabycooking",
+  "class": "WhatsGabyCooking",
+  "overrides": []
+ },
+ "whole30.com": {
+  "module": "whole30",
+  "class": "Whole30",
+  "overrides": [
+   "ingredient_groups"
+  ]
+ },
+ "wholefoodsmarket.com": {
+  "module": "wholefoods",
+  "class": "WholeFoods",
+  "overrides": []
+ },
+ "wholefoodsmarket.co.uk": {
+  "module": "wholefoods",
+  "class": "WholeFoods",
+  "overrides": []
+ },
+ "en.wikibooks.org": {
+  "module": "wikicookbook",
+  "class": "WikiCookbook",
+  "overrides": [
+   "description",
+   "image",
+   "ingredients",
+   "instructions",
+   "site_name",
+   "title",
+   "total_time",
+   "yields"
+  ]
+ },
+ "williams-sonoma.com": {
+  "module": "williamssonoma",
+  "class": "WilliamsSonoma",
+  "overrides": [
+   "author",
+   "ingredient_groups"
+  ]
+ },
+ "womensweeklyfood.com.au": {
+  "module": "womensweeklyfood",
+  "class": "WomensWeeklyFood",
+  "overrides": [
+   "ingredient_groups",
+   "ingredients",
+   "instructions"
+  ]
+ },
+ "woop.co.nz": {
+  "module": "woop",
+  "class": "Woop",
+  "overrides": [
+   "ingredients",
+   "instructions",
+   "nutrients",
+   "title",
+   "total_time",
+   "yields"
+  ]
+ },
+ "wyseguide.com": {
+  "module": "wyseguide",
+  "class": "WyseGuide",
+  "overrides": []
+ },
+ "xiachufang.com": {
+  "module": "xiachufang",
+  "class": "Xiachufang",
+  "overrides": [
+   "author",
+   "category",
+   "description",
+   "ingredient_groups",
+   "ingredients",
+   "instructions",
+   "keywords",
+   "language",
+   "site_name",
+   "title",
+   "total_time",
+   "yields"
+  ]
+ },
+ "recipe.yamasa.com": {
+  "module": "yamasa",
+  "class": "Yamasa",
+  "overrides": [
+   "author",
+   "cuisine",
+   "ingredient_groups",
+   "ingredients",
+   "instructions"
+  ]
+ },
+ "yemek.com": {
+  "module": "yemek",
+  "class": "Yemek",
+  "overrides": []
+ },
+ "yummly.com": {
+  "module": "yummly",
+  "class": "Yummly",
+  "overrides": [
+   "author",
+   "ingredients",
+   "instructions",
+   "site_name"
+  ]
+ },
+ "zaubertopf.de": {
+  "module": "zaubertopf",
+  "class": "ZauberTopf",
+  "overrides": [
+   "ingredients",
+   "instructions"
+  ]
+ },
+ "zeit.de": {
+  "module": "zeitwochenmarkt",
+  "class": "ZeitWochenmarkt",
+  "overrides": [
+   "author",
+   "ingredients",
+   "instructions"
+  ]
+ },
+ "zenbelly.com": {
+  "module": "zenbelly",
+  "class": "ZenBelly",
+  "overrides": [
+   "ingredient_groups"
+  ]
+ },
+ "zestfulkitchen.com": {
+  "module": "zestfulkitchen",
+  "class": "ZestfulKitchen",
+  "overrides": []
+ }
+}

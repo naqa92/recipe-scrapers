@@ -1,0 +1,4 @@
+node_modules/
+tests/fixtures/
+bench/runs/
+tests/parity-report.json

@@ -1,0 +1,34 @@
+{
+  "name": "recipe-scrapers",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Lecteur de recettes schema.org pour Stewy, port TypeScript de hhursev/recipe-scrapers",
+  "type": "module",
+  "exports": {
+    ".": "./src/index.ts",
+    "./indexer": "./indexer/index.ts"
+  },
+  "scripts": {
+    "test": "vitest run",
+    "typecheck": "tsc -p tsconfig.json && tsc -p tsconfig.node.json",
+    "fixtures": "tsx scripts/fixtures.ts",
+    "registry": "tsx scripts/registry.ts",
+    "check:portable": "tsx scripts/portable.ts"
+  },
+  "dependencies": {
+    "cheerio": "^1.2.0",
+    "domhandler": "^5.0.3",
+    "domutils": "^3.2.2",
+    "entities": "^4.5.0",
+    "franc": "^6.2.0",
+    "htmlparser2": "^10.1.0",
+    "robots-parser": "^3.0.1"
+  },
+  "devDependencies": {
+    "@types/node": "^26.6.3",
+    "esbuild": "^0.28.2",
+    "tsx": "^4.23.15",
+    "typescript": "^7.0.2",
+    "vitest": "^5.0.2"
+  }
+}

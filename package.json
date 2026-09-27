@@ -5,8 +5,7 @@
   "description": "Lecteur de recettes schema.org pour Stewy, port TypeScript de hhursev/recipe-scrapers",
   "type": "module",
   "exports": {
-    ".": "./src/index.ts",
-    "./indexer": "./indexer/index.ts"
+    ".": "./src/index.ts"
   },
   "scripts": {
     "test": "vitest run",
@@ -20,9 +19,7 @@
     "domhandler": "^5.0.3",
     "domutils": "^3.2.2",
     "entities": "^4.5.0",
-    "franc": "^6.2.0",
-    "htmlparser2": "^10.1.0",
-    "robots-parser": "^3.0.1"
+    "htmlparser2": "^10.1.0"
   },
   "devDependencies": {
     "@types/node": "^26.6.3",

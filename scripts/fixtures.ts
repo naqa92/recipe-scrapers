@@ -1,11 +1,11 @@
-// Fetches upstream test fixtures (hhursev/recipe-scrapers, MIT) for the index sites into tests/fixtures/.
+// Fetches upstream test fixtures (hhursev/recipe-scrapers, MIT) for the ported sites into tests/fixtures/.
 import { execFileSync } from "node:child_process";
 import { cpSync, existsSync, mkdtempSync, readFileSync, rmSync } from "node:fs";
 import { tmpdir } from "node:os";
 import { join } from "node:path";
 
 export const UPSTREAM_COMMIT = "3fd942babba3bc79472aec267f9cfc3994b85339";
-const sites: { host: string; source: string }[] = JSON.parse(readFileSync("indexer/sites.json", "utf8"));
+const sites: { host: string; source: string }[] = JSON.parse(readFileSync("scripts/sites.json", "utf8"));
 const hosts = sites.filter((s) => s.source === "recipe-scrapers").map((s) => s.host);
 
 const tmp = mkdtempSync(join(tmpdir(), "rs-upstream-"));

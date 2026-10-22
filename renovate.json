@@ -1,0 +1,32 @@
+{
+  "$schema": "https://docs.renovatebot.com/renovate-schema.json",
+  "extends": ["config:recommended", ":semanticCommits"],
+  "packageRules": [
+    {
+      "description": "Grouper les GitHub Actions en une seule PR.",
+      "matchManagers": ["github-actions"],
+      "groupName": "github-actions"
+    },
+    {
+      "description": "Patch publiée depuis 3 jours au moins : même seuil que les AgeGates des gestionnaires de paquets.",
+      "matchUpdateTypes": ["patch"],
+      "minimumReleaseAge": "3 days"
+    },
+    {
+      "description": "Minor et major publiées depuis 7 jours au moins.",
+      "matchUpdateTypes": ["minor", "major"],
+      "minimumReleaseAge": "7 days"
+    },
+    {
+      "description": "Devbox — désactivé : Renovate ne recalcule pas le lock nix et une montée majeure casserait un pin délibéré.",
+      "matchManagers": ["devbox"],
+      "enabled": false
+    },
+    {
+      "description": "DHI — registre privé, Renovate n'a pas les identifiants du lab.",
+      "matchDatasources": ["docker"],
+      "matchPackagePrefixes": ["dhi.io/"],
+      "enabled": false
+    }
+  ]
+}

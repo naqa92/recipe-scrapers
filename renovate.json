@@ -1,6 +1,9 @@
 {
   "$schema": "https://docs.renovatebot.com/renovate-schema.json",
-  "extends": ["config:recommended", ":semanticCommits"],
+  "extends": ["config:recommended", ":semanticCommits", "group:allNonMajor"],
+  "timezone": "Europe/Paris",
+  "schedule": ["* 0-5 * * 1"],
+  "updateNotScheduled": false,
   "packageRules": [
     {
       "description": "Grouper les GitHub Actions en une seule PR.",

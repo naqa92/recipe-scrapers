@@ -17,8 +17,8 @@
   "dependencies": {
     "cheerio": "^1.2.0",
     "domhandler": "^5.0.3",
-    "domutils": "^3.2.2",
-    "entities": "^9.0.0",
+    "domutils": "^4.0.0",
+    "entities": "^4.5.0",
     "htmlparser2": "^10.1.0"
   },
   "devDependencies": {
